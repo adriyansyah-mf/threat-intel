@@ -3227,7 +3227,6 @@
 115.50.30.69
 115.50.32.194
 115.50.33.181
-115.50.33.28
 115.50.33.51
 115.50.34.63
 115.50.35.160
@@ -6638,6 +6637,7 @@
 121.202.209.31
 121.202.209.46
 121.202.210.5
+121.202.211.217
 121.205.208.140
 121.205.208.95
 121.207.44.122
@@ -7029,6 +7029,7 @@
 123.129.131.46
 123.129.131.53
 123.129.132.154
+123.129.132.220
 123.129.132.25
 123.129.132.70
 123.129.133.169
@@ -12483,7 +12484,6 @@
 182.119.29.224
 182.119.3.116
 182.119.3.46
-182.119.3.51
 182.119.4.183
 182.119.5.25
 182.119.50.58
@@ -19010,7 +19010,6 @@
 27.219.142.205
 27.219.152.147
 27.219.2.12
-27.219.60.48
 27.220.10.3
 27.220.113.193
 27.220.113.246
@@ -20494,6 +20493,7 @@
 39.88.84.202
 39.89.130.81
 39.89.131.167
+39.89.132.134
 39.89.145.113
 39.89.145.181
 39.89.145.5
@@ -21595,7 +21595,6 @@
 42.227.37.101
 42.227.41.41
 42.227.42.87
-42.227.5.252
 42.227.5.9
 42.227.54.107
 42.227.6.103
@@ -22692,6 +22691,7 @@
 42.56.143.169
 42.56.143.195
 42.56.145.32
+42.56.154.219
 42.56.155.156
 42.56.161.208
 42.56.161.236
@@ -22736,7 +22736,6 @@
 42.57.200.113
 42.57.200.143
 42.57.201.213
-42.57.207.188
 42.57.209.243
 42.57.216.127
 42.57.217.35
@@ -28429,6 +28428,7 @@
 77.49.32.215
 77.50.222.238
 77.53.106.55
+77.65.45.186
 77.81.84.0
 77.81.86.0
 77.81.89.0
@@ -29512,6 +29512,7 @@
 81.27.61.247
 81.30.107.0
 81.30.194.134
+81.30.208.254
 81.30.217.149
 81.38.70.125
 81.42.247.62
@@ -42873,6 +42874,7 @@ http://110.37.5.55:38939/bin.sh
 http://110.37.5.55:38939/i
 http://110.37.5.55:39512/bin.sh
 http://110.37.5.55:39512/i
+http://110.37.5.55:41564/bin.sh
 http://110.37.5.55:41564/i
 http://110.37.5.55:52666/i
 http://110.37.50.54:33107/bin.sh
@@ -46867,8 +46869,6 @@ http://115.50.30.225:47382/i
 http://115.50.30.69:40158/i
 http://115.50.32.194:38703/bin.sh
 http://115.50.33.181:38384/i
-http://115.50.33.28:60359/bin.sh
-http://115.50.33.28:60359/i
 http://115.50.33.51:44653/bin.sh
 http://115.50.33.51:44653/i
 http://115.50.34.63:34682/bin.sh
@@ -53950,6 +53950,7 @@ http://121.202.209.191/sshd
 http://121.202.209.31/sshd
 http://121.202.209.46/sshd
 http://121.202.210.5/sshd
+http://121.202.211.217/sshd
 http://121.205.208.140:46736/bin.sh
 http://121.205.208.95:46727/i
 http://121.207.44.122:8088/av.lnk
@@ -54610,6 +54611,7 @@ http://123.129.131.53:42608/bin.sh
 http://123.129.131.53:42608/i
 http://123.129.132.154:59825/bin.sh
 http://123.129.132.154:59825/i
+http://123.129.132.220:47985/i
 http://123.129.132.25:48552/i']
 http://123.129.132.70:35200/i
 http://123.129.133.169:37634/bin.sh
@@ -57168,7 +57170,6 @@ http://125.43.33.215:48342/i
 http://125.43.33.71:50237/i
 http://125.43.35.89:48332/bin.sh
 http://125.43.35.89:48332/i
-http://125.43.36.15:33285/bin.sh
 http://125.43.36.15:33285/i
 http://125.43.36.15:34578/bin.sh']
 http://125.43.36.229:48342/bin.sh
@@ -59782,6 +59783,7 @@ http://138.204.196.136:54674/i
 http://138.204.196.254:33691/bin.sh
 http://138.204.196.254:33691/i
 http://138.204.196.254:34729/bin.sh
+http://138.204.196.254:34729/i
 http://138.204.196.254:44018/bin.sh
 http://138.204.196.254:44018/i
 http://138.204.196.254:48453/bin.sh
@@ -65411,6 +65413,7 @@ http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-11-05/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-11-09/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-11-19/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-11-22/info.zip
+http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-11-23/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-11-26/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-11-30/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-12-03/info.zip
@@ -65646,6 +65649,7 @@ http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-01-31/
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-02-14/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-03-06/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-03-17/info.zip
+http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-04-19/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-04-26/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-05-11/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-06-05/info.zip
@@ -66282,7 +66286,6 @@ http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Con
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-01-16/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-01-17/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-01-18/info.zip
-http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-01-19/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-01-20/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-01-21/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-01-23/info.zip
@@ -66343,6 +66346,7 @@ http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Con
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-24/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-25/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-26/info.zip
+http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-27/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-28/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-29/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-30/info.zip
@@ -66420,6 +66424,7 @@ http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Con
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-02/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-03/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-04/info.zip
+http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-05/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-06/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-07/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-08/info.zip
@@ -66444,6 +66449,7 @@ http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Con
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-27/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-28/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-03-01/info.zip
+http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-03-03/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-03-04/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-03-05/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-03-06/info.zip
@@ -66491,6 +66497,7 @@ http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Con
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-04-20/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-04-21/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-04-22/info.zip
+http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-04-23/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-04-24/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-04-25/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-04-26/info.zip
@@ -70429,8 +70436,6 @@ http://182.119.3.116:48241/bin.sh
 http://182.119.3.116:48241/i
 http://182.119.3.46:45745/bin.sh
 http://182.119.3.46:45745/i
-http://182.119.3.51:51555/bin.sh
-http://182.119.3.51:51555/i
 http://182.119.4.183:33799/bin.sh
 http://182.119.4.183:33799/i
 http://182.119.5.25:49166/bin.sh']
@@ -78783,7 +78788,6 @@ http://213.232.114.169/d/xans.arm6
 http://213.232.114.169/d/xans.m68k
 http://213.232.114.169/d/xans.mips
 http://213.232.114.169/d/xans.mpsl
-http://213.232.114.169/d/xans.ppc
 http://213.232.114.169/d/xans.sh4
 http://213.232.114.169/d/xans.spc
 http://213.232.114.169/d/xans.x86
@@ -81177,6 +81181,7 @@ http://222.137.24.121:40689/bin.sh
 http://222.137.24.121:40689/i
 http://222.137.24.121:48363/bin.sh
 http://222.137.24.121:48363/i
+http://222.137.24.204:56295/bin.sh
 http://222.137.24.204:56295/i
 http://222.137.24.211:54814/bin.sh
 http://222.137.24.211:54814/i
@@ -83260,7 +83265,6 @@ http://27.219.152.147:47601/bin.sh
 http://27.219.152.147:47601/i
 http://27.219.2.12:45285/bin.sh
 http://27.219.2.12:45285/i
-http://27.219.60.48:57640/i
 http://27.220.10.3:50823/bin.sh
 http://27.220.10.3:50823/bin.sh']
 http://27.220.10.3:50823/i
@@ -85292,6 +85296,8 @@ http://39.88.84.202:44705/bin.sh
 http://39.88.84.202:44705/i
 http://39.89.130.81:41238/bin.sh
 http://39.89.131.167:37803/i
+http://39.89.132.134:44249/bin.sh
+http://39.89.132.134:44249/i
 http://39.89.145.113:43698/i
 http://39.89.145.181:42573/bin.sh
 http://39.89.145.181:42573/i
@@ -86947,7 +86953,6 @@ http://42.227.41.41:53341/bin.sh
 http://42.227.41.41:53341/i
 http://42.227.42.87:54318/bin.sh
 http://42.227.42.87:54318/i
-http://42.227.5.252:38217/i
 http://42.227.5.9:55083/bin.sh
 http://42.227.5.9:55083/i
 http://42.227.54.107:48326/bin.sh
@@ -88857,6 +88862,7 @@ http://42.56.143.169:35901/i
 http://42.56.143.195:49120/i
 http://42.56.145.32:33872/bin.sh
 http://42.56.145.32:33872/i
+http://42.56.154.219:50393/bin.sh
 http://42.56.155.156:44029/i
 http://42.56.161.208:40188/i
 http://42.56.161.236:40188/bin.sh
@@ -88929,8 +88935,6 @@ http://42.57.200.113:50619/i
 http://42.57.200.143:41310/bin.sh
 http://42.57.201.213:56245/bin.sh
 http://42.57.201.213:56245/i
-http://42.57.207.188:53729/bin.sh
-http://42.57.207.188:53729/i
 http://42.57.209.243:34359/bin.sh']
 http://42.57.216.127:56269/bin.sh
 http://42.57.216.127:56269/i
@@ -90544,7 +90548,6 @@ http://45.185.93.184:41296/bin.sh
 http://45.185.93.184:41296/i
 http://45.185.93.184:52374/bin.sh
 http://45.185.93.184:52374/i
-http://45.185.93.184:60900/i
 http://45.185.93.188:44219/bin.sh
 http://45.185.93.188:44219/i
 http://45.186.201.37:62179/i
@@ -96897,6 +96900,7 @@ http://77.49.32.215:54750/.i
 http://77.50.222.238:51680/i
 http://77.53.106.55:60133/bin.sh
 http://77.53.106.55:60133/i
+http://77.65.45.186:9693/i
 http://77.82.70.105:14082/.i
 http://77.83.207.98
 http://77.83.240.155/Photo.scr
@@ -97172,6 +97176,7 @@ http://79.111.14.68:25041/.i
 http://79.111.14.68:25041/i
 http://79.112.9.6:58647/i
 http://79.121.103.84:45544/.i
+http://79.121.103.84:45544/i
 http://79.122.193.32:8110/sshd
 http://79.124.72.22:8022/sshd
 http://79.124.72.22:8246/sshd
@@ -97574,6 +97579,7 @@ http://81.229.60.159:58639/i
 http://81.27.61.247:34062/bin.sh
 http://81.27.61.247:34062/i
 http://81.30.194.134:30357/
+http://81.30.208.254:6792/i
 http://81.30.217.149:10686/.i
 http://81.38.70.125/av.lnk
 http://81.38.70.125/av.scr
@@ -108777,6 +108783,7 @@ http://web.archive.org/web/20240808121419if_/http://154.216.19.139/bins/mirai.mi
 http://web.archive.org/web/20240808121419if_/http:/154.216.19.139/bins/mirai.mips
 http://web.archive.org/web/20240808121832if_/http://154.216.19.139/bins/mirai.mipsel
 http://web.archive.org/web/20240808121832if_/http:/154.216.19.139/bins/mirai.mipsel
+http://web.archive.org/web/20240808122159if_/http:/154.216.19.139/bins/mirai.powerpc
 http://web.archive.org/web/20240808122448if_/http://154.216.19.139/bins/mirai.sh4
 http://web.archive.org/web/20240808122448if_/http:/154.216.19.139/bins/mirai.sh4
 http://web.archive.org/web/20240808122755if_/http://154.216.19.139/bins/mirai.x86_64
@@ -113663,7 +113670,6 @@ https://daily-poser.sync-structre-mn-inter.in.net/justly-code45
 https://dalmex.circu1arc0pna.ru/imsfjbpj
 https://dalmex.circu1arc0pna.ru/x08upr9q
 https://dampf.flintquelle.ru/pfjvfcj2
-https://dampf.frostgipfel.ru/p9qw0x5g
 https://dampf.frostgipfel.ru/p9qw0x5g']
 https://dansorium.gr/DarkCyan-fa1d3_Install.exe
 https://danzep.tr2chec0rrupt.ru/fp3o0959
@@ -119349,7 +119355,6 @@ https://moor.darkfeather.ru/wmk7zm1u
 https://moor.deep5tone.ru/c5kbb1xv
 https://moor.deep5tone.ru/ct1mk5zn
 https://moor.emberhochland.ru/xfxpc1p1
-https://moor.frostgipfel.ru/uzl5ipz7
 https://moor.g0ldmint.ru/o8nwo9gh
 https://moor.glaciertal.ru/uptqhm34
 https://moor.hum2nk0str.ru/t4qvqmpk
@@ -125909,7 +125914,6 @@ moor.copperalpen.ru
 moor.darkfeather.ru
 moor.deep5tone.ru
 moor.emberhochland.ru
-moor.frostgipfel.ru
 moor.g0ldmint.ru
 moor.glaciertal.ru
 moor.hum2nk0str.ru
