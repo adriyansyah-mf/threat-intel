@@ -206,10 +206,9 @@ http://103.116.52.44/x86
 http://103.116.52.44/x86_64
 http://103.123.98.220:81/
 http://103.125.163.10:7080/
+http://103.125.163.10:7080/.i
 http://103.125.163.10:7080/02.08.2022.exe
-http://103.125.163.10:7080/Hajime
 http://103.125.163.10:7080/Mozi.m
-http://103.125.163.10:7080/i
 http://103.13.138.227:46205/Mozi.m
 http://103.130.213.44/mips']
 http://103.130.214.71:1212/cat.sh
@@ -1097,7 +1096,6 @@ http://103.153.68.104/arm7
 http://103.153.68.104/mips
 http://103.153.68.104/mpsl
 http://103.153.68.104/tplink.sh
-http://103.153.93.18:10782/sshd
 http://103.153.93.18:15609/sshd
 http://103.154.90.21:4747/i
 http://103.159.221.33:9269/i
@@ -1155,8 +1153,8 @@ http://103.164.128.58:46877/bin.sh
 http://103.164.128.58:46877/i
 http://103.164.128.58:55841/bin.sh
 http://103.164.128.58:55841/i
-http://103.164.200.170:7080/.i
 http://103.164.200.170:7080/Mozi.m
+http://103.164.200.170:7080/i
 http://103.167.175.121:53667/bin.sh
 http://103.167.175.121:53667/i
 http://103.171.168.74:36014/bin.sh
@@ -1173,7 +1171,6 @@ http://103.172.186.155:39086/i
 http://103.172.186.157:33684/bin.sh
 http://103.172.186.157:33684/i
 http://103.173.173.98:58982/
-http://103.173.173.98:58982/.i
 http://103.173.173.98:58982/Mozi.m
 http://103.173.173.98:58982/i
 http://103.174.242.57:37281/bin.sh
@@ -1191,6 +1188,7 @@ http://103.181.158.75:46265/i
 http://103.186.147.155/bins/mips
 http://103.187.151.107:1500/.i
 http://103.187.151.107:1500/Mozi.m
+http://103.187.151.107:1500/i
 http://103.188.83.28/mips']
 http://103.19.49.134:44646/i
 http://103.190.22.80:47632/bin.sh
@@ -1322,10 +1320,14 @@ http://103.236.133.81:21414/.i
 http://103.236.133.81:21414/i
 http://103.236.135.177:21414/.i
 http://103.236.135.177:21414/i
+http://103.240.211.121/AV.lnk
+http://103.240.211.121/AV.scr
 http://103.240.211.121/Photo.lnk
 http://103.240.211.121/Photo.scr
 http://103.240.211.121/Video.lnk
+http://103.240.211.121/Video.scr
 http://103.241.42.40/
+http://103.245.10.51:56156/.i
 http://103.245.10.51:56156/Mozi.m
 http://103.245.10.51:56156/i
 http://103.245.195.38:36912/bin.sh
@@ -1358,18 +1360,9 @@ http://103.249.199.4:56398/i
 http://103.252.89.75/001010101010010110101011101010101101010111010101/Labello.arc
 http://103.252.89.75/001010101010010110101011101010101101010111010101/Labello.arm
 http://103.252.89.75/001010101010010110101011101010101101010111010101/Labello.arm5
-http://103.252.89.75/001010101010010110101011101010101101010111010101/Labello.arm6
-http://103.252.89.75/001010101010010110101011101010101101010111010101/Labello.arm7
 http://103.252.89.75/001010101010010110101011101010101101010111010101/Labello.i686
 http://103.252.89.75/001010101010010110101011101010101101010111010101/Labello.m68k
-http://103.252.89.75/001010101010010110101011101010101101010111010101/Labello.mips
-http://103.252.89.75/001010101010010110101011101010101101010111010101/Labello.mpsl
-http://103.252.89.75/001010101010010110101011101010101101010111010101/Labello.ppc
-http://103.252.89.75/001010101010010110101011101010101101010111010101/Labello.sh4
 http://103.252.89.75/001010101010010110101011101010101101010111010101/Labello.x86
-http://103.252.89.75/001010101010010110101011101010101101010111010101/Labello.x86_64
-http://103.252.89.75/001010101010010110101011101010101101010111010101/debug
-http://103.252.89.75/1.sh
 http://103.253.146.163/csk_arm
 http://103.253.146.163/csk_arm5
 http://103.253.146.163/csk_arm6
@@ -1558,9 +1551,7 @@ http://103.84.57.217:48089/Mozi.a
 http://103.90.205.117:18963/i
 http://103.90.206.87:4419/.i
 http://103.90.206.87:4419/i
-http://103.90.207.234:55903/.i
-http://103.90.207.234:55903/Mozi.m
-http://103.90.207.234:55903/i
+http://103.93.200.20:2260/.i
 http://103.93.200.20:2260/i
 http://103.93.54.226/bins/meerkat.arm']
 http://103.94.142.84:59168/bin.sh
@@ -1619,21 +1610,7 @@ http://104.32.65.48:55075/i
 http://104.32.65.48:58765/bin.sh
 http://104.32.65.48:58765/i
 http://104.4.43.233:81/
-http://104.6.82.222:8081/bot.armv4l
-http://104.6.82.222:8081/bot.armv5l
-http://104.6.82.222:8081/bot.armv6l
-http://104.6.82.222:8081/bot.armv7l
-http://104.6.82.222:8081/bot.i486
-http://104.6.82.222:8081/bot.i586
-http://104.6.82.222:8081/bot.i686
-http://104.6.82.222:8081/bot.m68k
-http://104.6.82.222:8081/bot.mips
-http://104.6.82.222:8081/bot.mipsel
-http://104.6.82.222:8081/bot.powerpc
 http://104.6.82.222:8081/bot.powerpc']
-http://104.6.82.222:8081/bot.powerpc-440fp
-http://104.6.82.222:8081/bot.sh4
-http://104.6.82.222:8081/bot.x86_64
 http://105.111.18.139:59736/bin.sh
 http://105.111.18.139:59736/i
 http://105.111.204.158:47130/bin.sh
@@ -2042,6 +2019,8 @@ http://108.168.10.70:41281/bin.sh
 http://108.168.10.70:41281/i
 http://108.168.10.70:55070/bin.sh
 http://108.168.10.70:55070/i
+http://108.170.136.155:34374/bin.sh
+http://108.170.136.155:34374/i
 http://108.170.136.155:37379/bin.sh
 http://108.170.136.155:37379/i
 http://108.170.136.155:39562/bin.sh
@@ -2122,6 +2101,7 @@ http://109.236.48.121/kworkerd0
 http://109.236.48.121/mdsync1
 http://109.236.48.121/ttmswapd
 http://109.236.48.121/vredisd0
+http://109.245.220.229:44759/.i
 http://109.245.220.229:44759/i
 http://109.248.151.201/113/cw.hta
 http://109.248.151.201/14.php
@@ -2130,7 +2110,6 @@ http://109.254.26.70:21371/bin.sh
 http://109.254.26.70:21371/i
 http://109.72.124.157/vxs/mipsel
 http://109.74.204.206/bre
-http://109.87.223.241:39478/.i
 http://109.87.223.241:39478/Mozi.m
 http://109.87.223.241:39478/i
 http://109.92.143.90:65469/.i
@@ -3434,8 +3413,6 @@ http://110.37.116.127:45282/bin.sh
 http://110.37.116.127:45282/i
 http://110.37.116.249:49666/bin.sh']
 http://110.37.116.78:41815/i
-http://110.37.116.78:45392/bin.sh
-http://110.37.116.78:45392/i
 http://110.37.116.78:46837/bin.sh
 http://110.37.116.78:46837/i
 http://110.37.116.78:58332/bin.sh
@@ -5596,7 +5573,7 @@ http://110.39.27.117:57730/i
 http://110.39.27.117:58994/bin.sh
 http://110.39.27.117:58994/i
 http://110.4.13.252:25937/
-http://110.4.13.252:25937/.i
+http://110.4.13.252:25937/i
 http://110.4.2.146:18208/bin.sh
 http://110.4.2.146:18208/i
 http://110.4.2.146:59483/i
@@ -5815,7 +5792,6 @@ http://111.59.254.165:8084/20250615/Photo.lnk
 http://111.59.254.165:8084/20250615/Photo.scr
 http://111.59.254.165:8084/20250615/Video.lnk
 http://111.59.254.165:8084/20250615/Video.scr
-http://111.59.254.165:8084/20250621/AV.lnk
 http://111.59.254.165:8084/20250621/AV.scr
 http://111.59.254.165:8084/20250621/Photo.lnk
 http://111.59.254.165:8084/20250621/Photo.scr
@@ -5917,7 +5893,6 @@ http://112.113.247.136:40649/i
 http://112.123.44.210:40109/i
 http://112.123.45.74:38722/bin.sh
 http://112.123.45.74:38722/i
-http://112.124.33.87:60147/linux
 http://112.132.183.123:38722/bin.sh
 http://112.132.183.123:38722/i
 http://112.140.189.76:60327/i
@@ -6614,6 +6589,7 @@ http://113.17.24.230:58245/bin.sh']
 http://113.174.245.185/sshd
 http://113.180.194.39/sshd']
 http://113.191.207.19:56331/i
+http://113.196.206.245:39336/.i
 http://113.196.206.245:39336/i
 http://113.200.237.170:45286/bin.sh
 http://113.200.237.170:45286/i
@@ -6735,6 +6711,7 @@ http://113.228.69.16:45332/bin.sh
 http://113.228.69.16:45332/i
 http://113.228.86.178:46154/bin.sh
 http://113.228.86.178:46154/i
+http://113.228.89.46:36487/i
 http://113.228.89.56:33803/bin.sh
 http://113.228.89.56:33803/i
 http://113.229.103.178:46035/bin.sh
@@ -7067,7 +7044,6 @@ http://113.240.216.197:54418/i
 http://113.240.219.191:54418/bin.sh
 http://113.240.219.191:54418/i
 http://113.25.105.80:60873/bin.sh']
-http://113.250.188.15:8078/02.08.2022.exe
 http://113.26.153.131:54499/i']
 http://113.26.57.154:52681/bin.sh']
 http://113.26.82.126:40248/i']
@@ -7141,11 +7117,11 @@ http://114.134.251.144:47416/.i
 http://114.139.213.60:46092/bin.sh
 http://114.139.213.60:46092/i
 http://114.139.213.64:46092/i
+http://114.143.158.122:1858/i
 http://114.182.56.191:48114/bin.sh
 http://114.182.56.191:48114/i
 http://114.198.242.134:35805/bin.sh
 http://114.198.242.134:35805/i
-http://114.215.193.12:60124/linux
 http://114.216.14.168:39424/bin.sh
 http://114.216.14.168:39424/i
 http://114.216.153.35:47914/bin.sh
@@ -7238,14 +7214,12 @@ http://114.252.224.245:5005/Photo.scr
 http://114.252.224.245:5005/Video.lnk
 http://114.252.224.245:5005/Video.scr
 http://114.31.8.22:65481/i
-http://114.31.8.25:65481/i
 http://114.35.88.142:41567/i
 http://114.55.106.136/update/data/update.exe
 http://114.55.106.136/update/pubData/HPSocket4C.dll
 http://114.7.160.114:47530/.i
 http://114.7.160.114:47530/Mozi.m
 http://114.7.160.114:47530/i
-http://114.7.203.130:12131/.i
 http://114.7.203.130:12131/i
 http://114.7.203.142:12131/.i
 http://114.7.209.193:47530/Mozi.m
@@ -8901,8 +8875,6 @@ http://115.56.101.152:50101/bin.sh
 http://115.56.101.152:50101/i
 http://115.56.11.134:45876/bin.sh
 http://115.56.11.134:45876/i
-http://115.56.11.86:44787/bin.sh
-http://115.56.11.86:44787/i
 http://115.56.110.171:46019/bin.sh
 http://115.56.110.171:46019/i
 http://115.56.111.237:36675/bin.sh
@@ -10346,6 +10318,7 @@ http://116.171.106.3:3435/tomcat8/work/Catalina/localhost/bfxt/org/info.zip
 http://116.171.106.3:3435/tomcat8/work/Catalina/localhost/info.zip
 http://116.171.106.3:3435/tomcat8/work/info.zip
 http://116.171.106.3:3435/xinheyuan/info.zip
+http://116.198.233.179:6666/02.08.2022.exe
 http://116.2.40.176:50208/bin.sh
 http://116.2.40.176:50208/i
 http://116.2.55.4:46688/i
@@ -10384,9 +10357,7 @@ http://116.58.51.90:1162/.i
 http://116.58.51.90:1162/i
 http://116.58.62.74/AV.lnk
 http://116.58.62.74/AV.scr
-http://116.58.62.74/Photo.lnk
 http://116.58.62.74/Photo.scr
-http://116.58.62.74/Video.lnk
 http://116.58.62.74/Video.scr
 http://116.58.62.74/info.zip
 http://116.68.160.180:37347/bin.sh
@@ -10547,6 +10518,7 @@ http://117.199.173.170:51714/i
 http://117.199.235.44:42960/i
 http://117.199.74.85:51885/i
 http://117.2.125.90/
+http://117.20.27.25:21414/.i
 http://117.20.27.25:21414/i
 http://117.200.122.29:49837/i']
 http://117.200.123.60:33228/bin.sh
@@ -10847,7 +10819,6 @@ http://117.209.80.45:50552/bin.sh
 http://117.209.80.45:50552/i
 http://117.209.80.76:56416/bin.sh
 http://117.209.80.76:56416/i
-http://117.209.80.78:43348/i
 http://117.209.81.176:41514/i
 http://117.209.81.176:41514/i']
 http://117.209.81.189:46708/.i']
@@ -11081,7 +11052,6 @@ http://117.215.57.176:34213/i
 http://117.215.57.249:59488/bin.sh
 http://117.215.57.249:59488/i
 http://117.215.57.95:56998/i
-http://117.215.58.2:56727/bin.sh
 http://117.215.58.53:46350/bin.sh
 http://117.215.59.164:46357/bin.sh
 http://117.215.62.6:47840/bin.sh
@@ -11620,6 +11590,7 @@ http://118.125.7.77:59115/bin.sh
 http://118.125.7.77:59115/i
 http://118.139.167.36/
 http://118.140.76.210:8000/
+http://118.141.249.234:21448/i
 http://118.141.249.234:21448/i']
 http://118.163.99.134:1457/bin.sh
 http://118.163.99.134:1457/i
@@ -12281,7 +12252,6 @@ http://119.189.43.95:58337/i
 http://119.193.158.215/center.exe
 http://119.193.158.215/client.exe
 http://119.200.78.153:19480/.i
-http://119.206.216.132:8674/i
 http://119.213.30.36:13651/i
 http://119.28.140.233/CVE-2020-15972/tear-down.js
 http://119.30.117.248:52528/Mozi.m
@@ -14170,6 +14140,7 @@ http://123.5.124.220:48114/bin.sh
 http://123.5.124.220:48114/i
 http://123.5.124.22:32938/bin.sh
 http://123.5.124.22:32938/i
+http://123.5.124.70:42193/bin.sh
 http://123.5.125.123:33856/bin.sh
 http://123.5.125.123:33856/i
 http://123.5.125.146:58835/bin.sh
@@ -14714,7 +14685,7 @@ http://124.162.223.228:43443/bin.sh
 http://124.162.223.228:43443/i
 http://124.162.80.79:56772/bin.sh
 http://124.163.55.40:48861/i
-http://124.194.46.204:44528/.i
+http://124.194.46.204:44528/i
 http://124.198.131.149/Bin/ScreenConnect.ClientSetup.exe
 http://124.198.131.149/bin/support.client.exe
 http://124.198.131.54/Bin/ScreenConnect.ClientSetup.exe
@@ -15308,6 +15279,7 @@ http://125.41.8.16:58154/bin.sh
 http://125.41.8.16:58154/i
 http://125.41.8.2:37503/bin.sh
 http://125.41.8.2:37503/i
+http://125.41.8.32:42721/bin.sh
 http://125.41.8.32:42721/i
 http://125.41.8.68:36691/bin.sh
 http://125.41.8.68:36691/i
@@ -15632,7 +15604,6 @@ http://125.44.254.245:54450/bin.sh
 http://125.44.254.245:54450/i
 http://125.44.254.81:54558/i
 http://125.44.255.247:51033/bin.sh
-http://125.44.29.30:56710/bin.sh
 http://125.44.29.30:56710/i
 http://125.44.31.138:41368/i
 http://125.44.32.150:49603/i
@@ -15812,6 +15783,7 @@ http://125.46.172.88:57092/i
 http://125.46.197.2:35752/bin.sh
 http://125.46.197.2:35752/i
 http://125.46.198.162:54487/bin.sh
+http://125.46.198.162:54487/i
 http://125.46.198.87:38330/bin.sh
 http://125.46.198.87:38330/i
 http://125.46.199.29:60515/bin.sh
@@ -15883,6 +15855,8 @@ http://125.47.236.30:39536/bin.sh
 http://125.47.236.30:39536/i
 http://125.47.237.161:51635/bin.sh
 http://125.47.237.161:51635/i
+http://125.47.237.203:45915/bin.sh
+http://125.47.237.203:45915/i
 http://125.47.242.189:53442/i
 http://125.47.242.65:41368/bin.sh
 http://125.47.242.65:41368/i
@@ -16472,6 +16446,7 @@ http://139.255.104.178:35249/i']
 http://139.255.67.189:26678/
 http://139.255.67.189:26678/.i
 http://139.255.67.189:26678/i
+http://139.255.97.118:6983/i
 http://139.59.231.32/Hammz.sh
 http://139.59.231.32/Hammz/Hammz.arc
 http://139.59.231.32/Hammz/Hammz.arm
@@ -16522,13 +16497,13 @@ http://14.224.162.164:39109/i
 http://14.224.205.246:81/info.zip
 http://14.225.238.7:15447/1111.exe']
 http://14.236.247.68/sshd
-http://14.249.107.216:1668/.i
 http://14.249.107.216:1668/i
 http://14.250.149.211/sshd
 http://14.35.13.228:29555/i
 http://14.46.201.56:33545/.i']
 http://14.49.202.139:33116/.i
 http://14.49.202.139:33116/i
+http://14.52.87.27:27191/.i
 http://14.52.87.27:27191/i
 http://14.54.91.160:53795/.i']
 http://14.54.96.182:8150/sshd
@@ -16602,7 +16577,6 @@ http://141.11.107.134:8000/hfsServ.exe
 http://141.11.107.134:8000/meshagent32-Access.exe
 http://141.11.107.134:8000/reverse.elf
 http://141.11.167.243/main_x86_64']
-http://141.11.240.103:25698/test
 http://141.11.62.222/x/e']
 http://141.134.214.217:8003//sshd
 http://141.134.214.217:8003/sshd
@@ -17056,8 +17030,8 @@ http://148.170.135.198:59522/i
 http://149.106.141.136:22236/i
 http://149.210.44.16:1157/sshd
 http://149.241.40.177:25590/.i
-http://149.241.40.177:25590/i
 http://149.248.79.33/Dvizhok.zip
+http://149.255.10.46:32625/.i
 http://149.3.101.219:55900/i
 http://149.62.200.106:37778/sshd
 http://150.129.202.193:1316/.i
@@ -17163,6 +17137,7 @@ http://151.243.109.141:8888/agent-x64-test2
 http://151.243.109.141:8888/agent-x86
 http://151.243.109.160/Demon.ppc']
 http://151.243.109.93/Sakura.sh
+http://151.251.196.158/sshd
 http://151.41.153.146:36256/bin.sh
 http://151.41.153.146:36256/i
 http://151.41.235.56:40750/i
@@ -17219,11 +17194,11 @@ http://153.75.248.141:1001/mipsle
 http://153.75.248.141:1001/x86
 http://154.0.129.114:10702/.i
 http://154.0.129.114:10702/02.08.2022.exe
-http://154.0.129.114:10702/Mozi.m
 http://154.0.129.114:10702/i
 http://154.0.129.134:10702/
 http://154.0.129.134:10702/.i
 http://154.0.129.134:10702/Mozi.m
+http://154.0.129.134:10702/i
 http://154.201.80.203/a-r.m-7.SNOOPY']
 http://154.201.80.32/a-r.m-7.SNOOPY']
 http://154.222.30.227/arm
@@ -17244,6 +17219,7 @@ http://154.242.0.41:41347/i
 http://154.242.139.246:36593/Mozi.m
 http://154.242.14.239:33323/i
 http://154.242.140.21:58368/i
+http://154.242.141.222:53861/bin.sh
 http://154.242.15.158:34517/i
 http://154.242.15.54:43301/bin.sh
 http://154.242.15.54:43301/i
@@ -17280,6 +17256,7 @@ http://154.53.37.227/windyloveyou/windy.spc
 http://154.53.37.227/windyloveyou/windy.x86
 http://154.53.37.227/windyloveyou/windy.x86_64
 http://154.73.139.50/bins/vcimanagement.arm6']
+http://154.84.212.18:20781/.i
 http://154.84.212.18:20781/i
 http://154.9.241.34/n2/mips
 http://154.9.241.34/n2/mpsl
@@ -17288,7 +17265,6 @@ http://154.9.241.34/n2/x86
 http://155.2.213.252:8001/Photo.scr
 http://155.2.213.252:8001/info.zip
 http://156.155.176.210:40080/Mozi.m
-http://156.155.176.210:40080/i
 http://156.200.99.139/AV.lnk
 http://156.200.99.139/AV.scr
 http://156.200.99.139/Photo.lnk
@@ -17508,6 +17484,7 @@ http://156.246.93.156/busybox-armv7l
 http://156.246.93.156/busybox-armv7l']
 http://156.246.93.156/n2onsolana/aarch64
 http://156.246.93.156/n2onsolana/armv4l
+http://156.246.93.156/n2onsolana/armv5l
 http://156.246.93.156/n2onsolana/armv6l
 http://156.246.93.156/n2onsolana/armv7l
 http://156.246.93.156/n2onsolana/mips
@@ -18398,6 +18375,7 @@ http://167.250.158.32:58812/bin.sh
 http://167.250.158.32:58812/i
 http://167.250.193.253:19901/.i
 http://167.250.193.253:19901/Mozi.m
+http://167.250.193.253:19901/i
 http://167.71.7.162//arm5
 http://167.71.7.162/arm
 http://167.71.7.162/arm5
@@ -19602,6 +19580,7 @@ http://176.125.242.191/cloud.x86_64
 http://176.165.146.103:56824/.i
 http://176.165.146.103:56824/i
 http://176.221.111.222:2282/Mozi.m
+http://176.221.111.222:2282/i
 http://176.226.129.38:36484/i
 http://176.226.129.38:51093/bin.sh
 http://176.226.129.38:51093/i
@@ -21926,7 +21905,6 @@ http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2019-07-10/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2019-07-18/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2019-08-06/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2019-08-07/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2019-08-08/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2019-09-03/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2019-09-13/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2019-09-24/info.zip
@@ -21952,7 +21930,6 @@ http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2019-12-18/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2019-12-19/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2019-12-31/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-01-03/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-01-08/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-01-10/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-01-15/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-01-16/info.zip
@@ -21979,7 +21956,6 @@ http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-05-08/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-05-12/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-05-14/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-05-15/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-05-19/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-05-21/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-06-01/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-06-10/info.zip
@@ -21988,7 +21964,6 @@ http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-06-19/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-06-24/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-07-07/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-07-08/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-07-09/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-07-20/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-07-21/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-07-27/info.zip
@@ -22001,10 +21976,8 @@ http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-09-29/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-09-30/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-10-03/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-10-09/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-10-14/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-10-15/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-10-16/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-10-30/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-11-05/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-11-06/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-11-30/info.zip
@@ -22017,13 +21990,11 @@ http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2020-12-30/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-01-12/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-01-13/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-01-14/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-01-26/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-02-04/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-02-08/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-02-09/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-03-01/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-03-02/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-03-03/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-03-04/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-03-05/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2021-03-09/info.zip
@@ -22107,7 +22078,6 @@ http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-02-23/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-03-02/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-03-03/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-03-08/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-03-14/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-03-16/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-03-21/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-03-22/info.zip
@@ -22135,13 +22105,13 @@ http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-08-09/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-08-12/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-08-17/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-08-18/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-08-24/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-08-25/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-09-06/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-09-09/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-09-17/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-09-29/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-10-05/info.zip
+http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-10-06/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-11-01/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-11-07/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2022-11-24/info.zip
@@ -22181,7 +22151,6 @@ http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2023-10-18/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2023-10-20/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2023-10-31/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2023-11-09/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2023-12-04/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2023-12-14/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2024-01-03/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2024-01-04/info.zip
@@ -22211,7 +22180,6 @@ http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2024-09-30/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2024-10-01/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2024-10-03/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2024-10-08/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2024-10-23/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2024-10-30/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2024-11-05/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Cancelamento/2024-11-28/info.zip
@@ -22256,7 +22224,6 @@ http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-04-14/
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-04-16/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-04-20/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-05-11/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-06-18/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-07-13/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-07-20/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-08-17/info.zip
@@ -22274,8 +22241,6 @@ http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-11-09/
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-11-13/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-12-23/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-01-07/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-01-08/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-03-30/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-04-01/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-04-16/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-04-19/info.zip
@@ -22290,20 +22255,19 @@ http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-07-26/
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-07-29/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-08-17/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-08-18/info.zip
+http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-08-20/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-08-26/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-09-09/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-09-10/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-09-13/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-09-14/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-09-15/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-09-17/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-09-20/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-10-07/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-10-19/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-11-23/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-11-30/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-12-13/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-01-07/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-01-10/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-01-20/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-01-21/info.zip
@@ -22348,6 +22312,7 @@ http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-05-11/
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-06-05/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-06-22/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-07-07/info.zip
+http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-08-04/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-08-08/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-08-11/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-08-16/info.zip
@@ -22383,8 +22348,8 @@ http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2024-11-12/
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2024-11-13/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2024-11-21/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2024-12-11/info.zip
-http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-01-06/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-01-07/info.zip
+http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-01-21/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-03-06/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-03-12/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-04-02/info.zip
@@ -22605,6 +22570,7 @@ http://177.70.102.228:8070/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-02-21/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-02-22/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-02-23/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-04-22/info.zip
+http://177.70.102.228:8070/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-07-06/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-07-07/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-08-19/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-08-22/info.zip
@@ -22613,6 +22579,7 @@ http://177.70.102.228:8070/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-10-20/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-01-23/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-03-10/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-04-27/info.zip
+http://177.70.102.228:8070/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-05-30/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-09-08/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-11-24/info.zip
 http://177.70.102.228:8070/TmpFTP/01/Recep%C3%A7%C3%A3o/2024-01-04/info.zip
@@ -22646,7 +22613,6 @@ http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Con
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-01-18/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-01-19/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-01-20/info.zip
-http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-01-21/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-01-22/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-01-23/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-01-25/info.zip
@@ -22675,6 +22641,7 @@ http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Con
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-02-19/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-02-20/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-02-21/info.zip
+http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-02-23/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-02-24/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-02-25/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-02-26/info.zip
@@ -22694,7 +22661,6 @@ http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Con
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-13/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-14/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-15/info.zip
-http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-16/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-17/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-18/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-20/info.zip
@@ -22727,7 +22693,6 @@ http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Con
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-04-18/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-04-19/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-04-20/info.zip
-http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-04-21/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-04-23/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-04-24/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-04-25/info.zip
@@ -22746,6 +22711,7 @@ http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Con
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-16/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-17/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-18/info.zip
+http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-19/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-22/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-23/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-24/info.zip
@@ -22794,6 +22760,7 @@ http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Con
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-26/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-27/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-28/info.zip
+http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-01/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-02/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-03/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-04/info.zip
@@ -22814,7 +22781,6 @@ http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Con
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-26/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-27/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-28/info.zip
-http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-29/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-30/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-02/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-04/info.zip
@@ -23128,12 +23094,12 @@ http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Con
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-21/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-22/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-23/info.zip
+http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-24/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-25/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-27/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-28/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-29/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-30/info.zip
-http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-01-15/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-01-16/info.zip
@@ -23185,7 +23151,6 @@ http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Con
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-03-03/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-03-04/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-03-05/info.zip
-http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-03-06/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-03-07/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-03-08/info.zip
 http://177.70.102.228:8070/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-03-09/info.zip
@@ -24356,7 +24321,6 @@ http://177.92.242.163:45949/i
 http://178.130.47.21']
 http://178.132.114.159:8080/sshd
 http://178.136.225.254:9840/.i
-http://178.136.225.254:9840/i
 http://178.141.11.187:57186/bin.sh
 http://178.141.132.131:51769/i
 http://178.141.132.251:52976/bin.sh
@@ -24441,11 +24405,11 @@ http://178.16.54.109/12.exe
 http://178.16.54.109/13.exe
 http://178.16.54.109/14.exe
 http://178.16.54.109/15.exe
+http://178.16.54.109/2
 http://178.16.54.109/2.exe
 http://178.16.54.109/3
 http://178.16.54.109/3.exe
 http://178.16.54.109/32.exe
-http://178.16.54.109/4
 http://178.16.54.109/4.exe
 http://178.16.54.109/5.exe
 http://178.16.54.109/6.exe
@@ -24571,7 +24535,6 @@ http://178.18.147.174/bins/bin.sh4
 http://178.18.147.174/bins/bin.x86_64
 http://178.18.147.174/bins/bins.sh
 http://178.18.147.96:25565/i
-http://178.183.125.31:8085/sshd
 http://178.183.125.31:8088/sshd
 http://178.183.125.31:8091/sshd
 http://178.183.125.31:8094/sshd
@@ -24600,7 +24563,6 @@ http://178.206.85.53:4805/bin.sh
 http://178.206.85.53:4805/i
 http://178.210.214.48:9814/i
 http://178.211.135.170:12768/Mozi.m
-http://178.211.135.170:12768/i
 http://178.215.236.81/bins/xnxnxnxnxnxnxnxnaarch64xnxn
 http://178.215.236.81/bins/xnxnxnxnxnxnxnxni386xnxn
 http://178.215.236.81/bins/xnxnxnxnxnxnxnxnloongarch64xnxn
@@ -24617,7 +24579,6 @@ http://178.215.236.81/bins/xnxnxnxnxnxnxnxnx86_64xnxn
 http://178.215.236.81/bins/xnxnxnxnxnxnxnxnx86_64xnxn']
 http://178.215.236.81/run.sh
 http://178.220.234.5:53133/
-http://178.220.234.5:53133/.i
 http://178.220.234.5:53133/i
 http://178.227.156.100:2578/bin.sh
 http://178.227.219.104:45584/Mozi.m
@@ -24634,7 +24595,6 @@ http://178.238.27.138:57400/i
 http://178.248.3.202.ll.sta.mana.pf/sshd
 http://178.34.124.79:33914/bin.sh
 http://178.34.124.79:33914/i
-http://178.34.183.162:34512/.i
 http://178.34.183.162:34512/i
 http://178.50.166.61:9301/sshd
 http://178.61.160.6:5001/AV.lnk
@@ -24765,7 +24725,6 @@ http://179.49.213.85:40745/bin.sh
 http://179.49.213.85:40745/bin.sh']
 http://179.49.213.85:59688/bin.sh
 http://179.49.213.85:59688/i
-http://179.51.168.26:10428/.i
 http://179.51.168.26:10428/i
 http://179.61.132.168/hiddenbin/boatnet.arc
 http://179.61.132.168/hiddenbin/boatnet.arm
@@ -24912,8 +24871,8 @@ http://180.245.60.169:42940/i
 http://180.245.60.245:35502/bin.sh
 http://180.245.60.245:35502/i
 http://180.249.73.142:46141/bin.sh']
+http://180.250.160.26:37143/.i
 http://180.250.160.26:37143/Mozi.m
-http://180.250.160.26:37143/i
 http://180.252.131.169:44282/bin.sh
 http://180.252.131.169:44282/i
 http://180.252.135.94:44282/bin.sh
@@ -24964,7 +24923,6 @@ http://181.211.15.11:60096/i
 http://181.211.255.166:49054/i
 http://181.215.60.5:8084/dick.sh
 http://181.225.67.10:4849/i
-http://181.48.119.70:40037/.i
 http://181.48.119.70:40037/i
 http://181.49.47.190:46516/.i
 http://181.49.47.190:46516/Mozi.m
@@ -25032,8 +24990,6 @@ http://182.112.217.179:35292/bin.sh
 http://182.112.217.179:35292/i
 http://182.112.221.106:49379/bin.sh
 http://182.112.221.106:49379/i
-http://182.112.222.141:48095/bin.sh
-http://182.112.222.141:48095/i
 http://182.112.223.124:58281/bin.sh
 http://182.112.223.124:58281/i
 http://182.112.224.251:55651/i
@@ -25804,7 +25760,6 @@ http://182.117.50.26:40062/i
 http://182.117.50.5:56387/bin.sh']
 http://182.117.50.97:40062/bin.sh
 http://182.117.50.97:40062/i
-http://182.117.51.191:41154/i
 http://182.117.54.142:54802/bin.sh
 http://182.117.54.142:54802/i
 http://182.117.54.55:37984/bin.sh
@@ -27246,6 +27201,7 @@ http://182.148.7.171:57923/bin.sh
 http://182.148.7.171:57923/i
 http://182.148.85.228:56473/bin.sh
 http://182.148.85.228:56473/i
+http://182.160.102.188:16079/
 http://182.160.102.188:16079/i
 http://182.160.109.98:29602/i
 http://182.160.116.52:57196/
@@ -27322,8 +27278,6 @@ http://182.253.115.155:59323/.i
 http://182.253.115.155:59323/Mozi.m
 http://182.253.115.155:59323/i
 http://182.253.115.156:59323/.i
-http://182.253.115.156:59323/Mozi.m
-http://182.253.115.156:59323/i
 http://182.32.199.244:50607/bin.sh
 http://182.32.199.244:50607/i
 http://182.45.75.54:53107/i
@@ -27568,7 +27522,6 @@ http://185.156.72.61/inc/ledenn.exe']
 http://185.166.91.145:10004/sshd
 http://185.170.154.64/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.arm']
 http://185.170.154.71/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.x86']
-http://185.172.128.16/ze
 http://185.173.38.8:8080/']
 http://185.177.239.181/1lc.exe
 http://185.177.239.181/SteamSetup_5449084542286.exe
@@ -27632,6 +27585,7 @@ http://185.208.159.67/checkmacos.sh
 http://185.208.159.67/log
 http://185.208.159.67/syst3md
 http://185.21.223.166:60622/.i
+http://185.21.223.166:60622/Mozi.m
 http://185.213.240.159/bins/parm
 http://185.213.240.159/bins/parm5
 http://185.213.240.159/bins/parm6
@@ -27796,8 +27750,6 @@ http://185.9.139.117:56264/bin.sh
 http://185.9.139.117:56264/i
 http://185.9.46.46:43999/bin.sh
 http://185.9.46.46:43999/i
-http://185.91.127.182/00101010101001/morte.i468
-http://185.91.127.182/1.sh
 http://185.97.113.40:33501/bin.sh
 http://185.97.113.40:33501/i
 http://185.97.113.40:34032/bin.sh
@@ -27990,7 +27942,6 @@ http://188.38.158.163:45168/bin.sh
 http://188.44.110.215:60566/.i
 http://188.44.110.215:60566/i
 http://188.58.197.152:39514/bin.sh
-http://188.72.6.218:43597/.i
 http://188.72.6.218:43597/Mozi.m
 http://188.72.6.218:43597/i
 http://188.81.134.196/resources/js/info2R.txt
@@ -28050,6 +28001,7 @@ http://190.110.204.150:34857/i
 http://190.113.124.155:64726/Mozi.m
 http://190.113.124.155:64726/i
 http://190.115.114.38:8080/
+http://190.12.99.194:28516/
 http://190.12.99.194:28516/.i
 http://190.12.99.194:28516/i
 http://190.128.195.138:50368/
@@ -28067,9 +28019,7 @@ http://190.196.38.77/Video.lnk
 http://190.196.38.77/Video.scr
 http://190.196.38.77/info.zip
 http://190.2.237.104:65088/.i
-http://190.2.237.104:65088/Mozi.m
 http://190.2.237.104:65088/i
-http://190.217.148.227:4886/Mozi.m
 http://190.255.90.152/Windows22h2.wsf
 http://190.255.90.152/bat.wsf
 http://190.255.90.152/exclsuion.vbs
@@ -28324,7 +28274,9 @@ http://192.3.228.209/29/img_224217.png
 http://192.3.233.166:59850/02.08.2022.exe
 http://192.3.47.183/178/sdf27672767sdf727676fds66dsg68g67367647637767d.vbs']
 http://192so3245.vybrelease.cn.com/r.txt
+http://193.106.58.174:32789/.i
 http://193.106.58.174:32789/Mozi.m
+http://193.106.58.174:32789/i
 http://193.109.44.54/sshd
 http://193.111.117.17:8080/file/RateConfirmation.exe
 http://193.111.248.202/LjEZs/uYtea.arm5']
@@ -28570,68 +28522,10 @@ http://195.10.205.157/b9kdj3s3C2/Plugins/cred.dll']
 http://195.103.203.106/AV.scr
 http://195.103.203.106/Photo.scr
 http://195.158.88.156:13509/
-http://195.158.88.156:13509/.i
 http://195.158.88.156:13509/i
 http://195.158.90.40:52094/.i
 http://195.158.90.40:52094/i
-http://195.16.44.75:8080/COMahawk64.exe
-http://195.16.44.75:8080/CVE-2021-40449_poc.e
-http://195.16.44.75:8080/DavRelayUp.exe
-http://195.16.44.75:8080/DavRelayUp2.exe
-http://195.16.44.75:8080/GodPotato.exe
-http://195.16.44.75:8080/Inveigh.exe
-http://195.16.44.75:8080/JuicyPotatoNG.exe
-http://195.16.44.75:8080/KrbRelayUp.exe
-http://195.16.44.75:8080/LaZagne.exe
-http://195.16.44.75:8080/LocalPotato.exe
-http://195.16.44.75:8080/PetitPotam.py
-http://195.16.44.75:8080/PrintSpoofer.exe
-http://195.16.44.75:8080/Rubeus.exe
-http://195.16.44.75:8080/SharpRDP.exe
-http://195.16.44.75:8080/SpoolFool.exe
-http://195.16.44.75:8080/SweetPotato.exe
-http://195.16.44.75:8080/agent.exe
-http://195.16.44.75:8080/beacon.exe
-http://195.16.44.75:8080/chisel.exe
-http://195.16.44.75:8080/cmd_patch.doc
-http://195.16.44.75:8080/create_doc.py
-http://195.16.44.75:8080/custom_macro.vba
-http://195.16.44.75:8080/cve-2022-21907.py
-http://195.16.44.75:8080/dde_payload.doc
-http://195.16.44.75:8080/dde_payload.docx
-http://195.16.44.75:8080/doc3.doc
-http://195.16.44.75:8080/final.doc
-http://195.16.44.75:8080/follina.doc
-http://195.16.44.75:8080/follina_payload.doc
 http://195.16.44.75:8080/follina_payload.doc']
-http://195.16.44.75:8080/go2.doc
-http://195.16.44.75:8080/go_update.doc
-http://195.16.44.75:8080/patch_update.doc
-http://195.16.44.75:8080/payload.vba
-http://195.16.44.75:8080/phish_final.doc
-http://195.16.44.75:8080/poly.gif
-http://195.16.44.75:8080/poly.jpg
-http://195.16.44.75:8080/ps_payload.doc
-http://195.16.44.75:8080/rev.ps1
-http://195.16.44.75:8080/rev5555.odt
-http://195.16.44.75:8080/rev64.exe
-http://195.16.44.75:8080/revshell.doc
-http://195.16.44.75:8080/revshell.exe
-http://195.16.44.75:8080/revshell.hta
-http://195.16.44.75:8080/revshell.vbs
-http://195.16.44.75:8080/runascs/RunasCs.exe
-http://195.16.44.75:8080/runascs/RunasCs_net2.exe
-http://195.16.44.75:8080/sc64.bin
-http://195.16.44.75:8080/shell5555.doc
-http://195.16.44.75:8080/update
-http://195.16.44.75:8080/update.doc
-http://195.16.44.75:8080/update.exe
-http://195.16.44.75:8080/update5555.doc
-http://195.16.44.75:8080/urgent_update.doc
-http://195.16.44.75:8080/vpn_config.doc
-http://195.16.44.75:8080/wp.exe
-http://195.16.44.75:8080/write_and_run.ps1
-http://195.16.44.75:8080/x64_payload.doc
 http://195.177.94.107/b2']
 http://195.177.94.139:8040/bin/ScreenConnect.ClientSetup.msi
 http://195.177.94.139:8040/bin/support.client.exe
@@ -29204,6 +29098,7 @@ http://196.77.187.16:60283/bin.sh
 http://197.159.1.58:25983/
 http://197.159.1.58:25983/.i
 http://197.159.1.58:25983/Mozi.m
+http://197.159.1.58:25983/i
 http://197.203.183.157:59850/i
 http://197.56.206.235:88/']
 http://198.12.83.68/177/dec/becarewitheveryonebestwaysforme.hta
@@ -30101,6 +29996,7 @@ http://202.1.26.13:37310/i
 http://202.1.26.13:58399/i
 http://202.10.47.112/stager.vbs
 http://202.10.47.112/svchost.exe
+http://202.105.196.30:52286/Mozi.m
 http://202.105.196.30:52286/i
 http://202.107.18.82:36899/bin.sh']
 http://202.107.235.202:8008/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/SQLFULL_CHS/ia64/Setup/sql_common_core_loc_msi/2052/PFiles32/SqlServr/100/COM/Res/2052/info.zip']
@@ -30172,6 +30068,7 @@ http://202.111.130.7:48929/i']
 http://202.111.131.58:45223/i
 http://202.129.16.119/
 http://202.129.16.172/chinese.txt
+http://202.131.234.26:51118/
 http://202.131.234.26:51118/Mozi.m
 http://202.131.234.26:51118/i
 http://202.139.20.12:1125/sshd
@@ -30182,6 +30079,7 @@ http://202.148.20.138:24291/.i
 http://202.148.20.138:24291/Mozi.m
 http://202.148.20.138:24291/i
 http://202.148.5.34:35700/.i
+http://202.148.5.34:35700/Mozi.m
 http://202.148.5.34:35700/i
 http://202.155.10.112/shr
 http://202.155.8.56/CJXI
@@ -30218,6 +30116,7 @@ http://202.5.52.110:37085/i
 http://202.53.164.214:17211/.i
 http://202.53.164.214:17211/i
 http://202.53.164.46:35803/.i
+http://202.53.164.46:35803/Mozi.m
 http://202.53.164.46:35803/i
 http://202.57.39.2:19001/tftp
 http://202.57.43.234:19001/tftp
@@ -30252,7 +30151,6 @@ http://203.114.63.253:60080/sshd
 http://203.121.236.145/info.zip
 http://203.159.90.22/Bin/ScreenConnect.ClientSetup.exe
 http://203.159.90.22/bin/support.client.exe
-http://203.160.56.67:12929/Mozi.m
 http://203.160.56.67:12929/i
 http://203.160.59.151:42952/i
 http://203.160.59.155:42952/i
@@ -30298,13 +30196,37 @@ http://203.192.211.119/AV.lnk
 http://203.192.211.119/AV.scr
 http://203.192.211.119/Photo.lnk
 http://203.192.211.119/Photo.scr
+http://203.192.211.119/Video.lnk
 http://203.192.211.119/Video.scr
 http://203.192.211.119/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_101124_MAHAL-SERVER/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_102624_MAHAL-NODE2/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_10825_MAHAL-NODE1/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_112724_MAHAL-NODE1/info.zip
 http://203.192.219.165:8080/OUTWARD/ExportImages_11424_MAHAL-NODE1/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_121424_MAHAL-NODE1/info.zip
 http://203.192.219.165:8080/OUTWARD/ExportImages_122124_MAHAL-NODE2/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_12424_MAHAL-NODE2/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_12525_MAHAL-NODE1/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_21025_MAHAL-NODE1/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_21425_MAHAL-NODE2/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_22025_MAHAL-NODE2/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_22225_MAHAL-NODE1/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_22225_MAHAL-NODE2/info.zip
 http://203.192.219.165:8080/OUTWARD/ExportImages_32824_MAHAL-SERVER/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_41724_MAHAL-NODE1/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_42425_MAHAL-NODE2/info.zip
 http://203.192.219.165:8080/OUTWARD/ExportImages_42625_MAHAL-NODE1/info.zip
 http://203.192.219.165:8080/OUTWARD/ExportImages_51025_MAHAL-NODE1/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_61924_MAHAL-NODE1/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_62124_MAHAL-NODE1/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_71824_MAHAL-NODE1/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_82224_MAHAL-NODE1/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_82624_MAHAL-NODE2/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_92825_MAHAL-NODE1/info.zip
+http://203.192.219.165:8080/OUTWARD/ExportImages_9425_MAHAL-NODE1/info.zip
+http://203.192.219.165:8080/OUTWARD/info.zip
+http://203.192.219.165:8080/PRODIMG/info.zip
 http://203.198.17.51/
 http://203.202.232.179/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.x86']
 http://203.203.38.27:43092/.i
@@ -30541,6 +30463,7 @@ http://210.125.101.75/agent.exe
 http://210.125.101.75/assignment.exe
 http://210.125.101.75/payload.dll
 http://210.149.155.4:8080/
+http://210.16.163.207:808/123.exe
 http://210.180.17.140:59391/bin.sh
 http://210.180.17.140:59391/i
 http://210.212.28.129:58266/i
@@ -30586,7 +30509,6 @@ http://211.51.58.126:7603/.i
 http://211.51.58.126:7603/i
 http://211.93.95.46:60983/bin.sh
 http://211.93.95.46:60983/i
-http://212.107.229.23:52295/.i
 http://212.107.229.23:52295/i
 http://212.107.232.167:21838/
 http://212.107.232.167:21838/.i
@@ -30596,9 +30518,11 @@ http://212.112.101.200:34801/i
 http://212.156.106.146:8096/sshd
 http://212.162.155.240/.x
 http://212.200.106.94:47831/.i
+http://212.200.106.94:47831/Mozi.m
 http://212.200.106.94:47831/i
 http://212.224.107.246/SSA_Statement.msi
 http://212.225.179.114:59283/.i
+http://212.225.179.114:59283/i
 http://212.225.179.160:21419/.i
 http://212.225.179.160:21419/i
 http://212.225.186.186:26550/.i
@@ -30686,9 +30610,7 @@ http://213.5.194.56:43416/i
 http://213.6.101.83:1609/i
 http://213.6.196.230:27629/.i
 http://213.6.196.230:27629/i
-http://213.6.74.138:39286/.i
 http://213.6.74.138:39286/Mozi.m
-http://213.6.74.138:39286/i
 http://213.65.123.45:39738/bin.sh
 http://213.65.123.45:39738/i
 http://213.66.254.134:3117/bin.sh
@@ -30762,7 +30684,7 @@ http://216.129.184.213:55511/bin.sh
 http://216.129.184.213:55511/i
 http://216.129.184.213:55587/bin.sh
 http://216.129.184.213:55587/i
-http://216.155.92.203:3956/
+http://216.155.92.203:3956/.i
 http://216.201.80.197/mig
 http://216.245.140.191/Ow.sh
 http://216.245.140.191/arm
@@ -33380,6 +33302,7 @@ http://222.165.237.58:37379/i
 http://222.165.237.59:37379/i
 http://222.165.237.60:37379/i
 http://222.165.237.61:37379/i
+http://222.165.237.62:37379/i
 http://222.166.248.15:60492/bin.sh
 http://222.166.248.15:60492/i
 http://222.185.133.5:33959/bin.sh
@@ -33530,6 +33453,7 @@ http://23.154.80.50:8080/1.sh']
 http://23.154.80.50:8080/bot.m68k']
 http://23.154.80.50:8080/bot.x86_64']
 http://23.160.193.251/bins/violetmpsl']
+http://23.239.12.230:3064/Mozi.m
 http://23.241.17.95/Photo.scr
 http://23.241.17.95/av.lnk
 http://23.241.17.95/av.scr
@@ -33539,6 +33463,7 @@ http://23.241.17.95/video.lnk
 http://23.241.17.95/video.scr
 http://23.92.130.154:39913/i
 http://23.92.130.154:46582/bin.sh
+http://23.92.130.154:46582/i
 http://23.92.130.154:52900/bin.sh
 http://23.92.130.154:59835/bin.sh
 http://23.94.111.252/systemcl/arm']
@@ -33615,6 +33540,7 @@ http://27.14.191.107:51471/i
 http://27.14.213.227:43443/bin.sh
 http://27.14.213.227:43443/i
 http://27.147.196.138:22320/i
+http://27.147.225.2:29392/Mozi.m
 http://27.15.119.98:43267/i
 http://27.15.243.115:34707/bin.sh
 http://27.15.243.115:34707/i
@@ -33837,6 +33763,7 @@ http://27.207.124.219:42184/i
 http://27.207.140.19:58527/bin.sh
 http://27.207.140.19:58527/i
 http://27.207.141.11:54027/bin.sh
+http://27.207.141.11:54027/i
 http://27.207.142.101:40227/bin.sh
 http://27.207.142.101:40227/i
 http://27.207.142.234:37815/bin.sh
@@ -34660,6 +34587,7 @@ http://31.186.54.111:54583/Mozi.m
 http://31.186.54.111:54583/i
 http://31.208.67.180:33161/bin.sh
 http://31.208.67.180:33161/i
+http://31.210.217.24:64046/
 http://31.210.217.24:64046/.i
 http://31.210.217.24:64046/Mozi.m
 http://31.210.217.24:64046/i
@@ -34917,10 +34845,11 @@ http://36.64.227.134:63289/.i
 http://36.64.227.134:63289/i
 http://36.66.108.167:57344/.i
 http://36.66.108.167:57344/Mozi.m
-http://36.66.108.167:57344/i
 http://36.66.139.36:53736/.i
 http://36.66.139.36:53736/Mozi.m
 http://36.66.139.36:53736/i
+http://36.66.151.7:59841/.i
+http://36.66.151.7:59841/i
 http://36.67.25.26:37781/i
 http://36.68.41.160:50106/bin.sh
 http://36.68.41.160:50106/i
@@ -35073,7 +35002,6 @@ http://36.92.154.218:40629/i
 http://36.92.68.239:40800/i
 http://36.92.68.241:27066/.i
 http://36.92.68.241:27066/Mozi.m
-http://36.92.68.241:27066/i
 http://36.95.137.155:1876/i
 http://36.95.77.138:63096/i
 http://36.97.200.199:47761/bin.sh
@@ -35091,6 +35019,7 @@ http://37.131.200.170:1794/
 http://37.131.200.170:1794/.i
 http://37.131.200.170:1794/Mozi.a
 http://37.131.200.170:1794/config
+http://37.131.200.170:1794/i
 http://37.131.200.170:1794/mozi.m
 http://37.139.249.103:3039/.i
 http://37.139.249.103:3039/i
@@ -35106,14 +35035,13 @@ http://37.202.49.118:56648/Mozi.m
 http://37.202.49.118:56648/i
 http://37.228.129.180/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.x86']
 http://37.233.63.185:33423/Mozi.m
+http://37.233.63.185:33423/i
 http://37.235.139.196:36439/bin.sh
 http://37.235.139.196:36439/i
 http://37.235.139.196:59189/bin.sh']
 http://37.235.223.51:51326/.i
-http://37.252.69.92:15274/.i
 http://37.252.86.167:36327/.i
 http://37.252.86.167:36327/Mozi.m
-http://37.252.86.167:36327/i
 http://37.255.195.37:10434/i']
 http://37.26.85.56:53461/bin.sh
 http://37.26.85.56:53461/i
@@ -35142,7 +35070,6 @@ http://37.28.179.42:57783/i
 http://37.28.179.42:58387/bin.sh
 http://37.34.209.216:59068/.i
 http://37.34.209.216:59068/Mozi.m
-http://37.34.209.216:59068/i
 http://37.34.230.9/AV.lnk
 http://37.34.230.9/AV.scr
 http://37.34.230.9/Photo.lnk
@@ -35181,6 +35108,7 @@ http://37.55.197.12:38936/bin.sh
 http://37.55.197.12:38936/i
 http://37.55.197.206:60444/i
 http://37.55.198.100:41095/i
+http://37.57.33.51:49049/Mozi.m
 http://37.57.33.51:49049/i
 http://37.76.132.161:40384/bin.sh
 http://37.76.132.161:40384/i
@@ -35196,6 +35124,7 @@ http://37.82.160.139/photo.scr']
 http://37.83.121.115/info.zip']
 http://37.84.101.191/photo.lnk']
 http://37.85.170.159/photo.scr']
+http://37.9.25.206:36858/i
 http://38.107.233.38/w.sh']
 http://38.137.250.247:45452/bin.sh
 http://38.156.90.30:45109/i
@@ -35793,7 +35722,6 @@ http://41.146.14.19:8084/sshd
 http://41.146.17.19:8081/sshd
 http://41.146.17.19:8083/sshd
 http://41.146.76.236:8082/sshd']
-http://41.190.69.6:26285/
 http://41.190.69.6:26285/i
 http://41.201.226.25:37418/bin.sh
 http://41.201.226.25:37418/i
@@ -38656,8 +38584,6 @@ http://43.156.63.124:64494/02.08.2022.exe
 http://43.199.34.191:8000/ep']
 http://43.224.0.5:1316/.i
 http://43.224.0.5:1316/Aqua.arm6
-http://43.224.0.5:1316/Mozi.a
-http://43.224.0.5:1316/Mozi.m
 http://43.224.0.5:1316/bin.sh
 http://43.224.0.5:1316/i
 http://43.224.0.5:1316/o
@@ -38688,7 +38614,6 @@ http://43.228.157.130/static/ciubuc_x86
 http://43.229.135.199/cmd/services.exe
 http://43.229.20.247:2874/i
 http://43.229.20.42:2874/.i
-http://43.229.20.42:2874/i
 http://43.230.107.46:60321/Mozi.m
 http://43.245.39.47:56993/i
 http://43.248.15.119:33356/Mozi.7
@@ -38763,7 +38688,6 @@ http://45.128.118.140/bot.exe
 http://45.128.118.140/bot_x86.exe
 http://45.128.118.140/mips
 http://45.128.118.140/mipsle
-http://45.128.118.140/run.sh
 http://45.128.118.140/x86
 http://45.128.118.48/bin
 http://45.128.118.48/bins.sh
@@ -40578,6 +40502,7 @@ http://46.165.215.116/JNG1.txt
 http://46.165.215.116/JNG2.txt
 http://46.165.215.116/Porcate.cmd
 http://46.165.215.116/imbosomed.deploy
+http://46.175.139.20:11074/i
 http://46.175.184.8:57591/bin.sh
 http://46.180.158.120:2111/bin.sh
 http://46.180.158.120:2111/i
@@ -40625,7 +40550,6 @@ http://46.250.54.75:83//sshd
 http://46.250.54.75:83/sshd
 http://46.250.54.75:84//sshd
 http://46.250.54.75:84/sshd
-http://46.39.251.94:1238/.i
 http://46.39.251.94:1238/i
 http://46.6.10.120:16726/.i
 http://46.6.12.101:16726/.i
@@ -40759,9 +40683,9 @@ http://47.215.185.216:53633/i
 http://47.215.185.216:54875/bin.sh
 http://47.215.185.216:54875/i
 http://47.236.149.142:46832/02.08.2022.exe
-http://47.242.58.84:60109/linux
 http://47.242.66.123:60124/linux
-http://47.49.114.179:27254/.i
+http://47.49.114.179:27254/i
+http://47.50.169.82:55508/i
 http://47.80.11.103:2222/loader1.bin
 http://47.83.203.183:60138/linux
 http://47.86.176.209:60133/linux
@@ -41273,6 +41197,7 @@ http://58.115.221.12:60990/i
 http://58.140.18.85:34491/bin.sh
 http://58.140.18.85:34491/i
 http://58.145.168.170:25222/Mozi.m
+http://58.145.168.170:25222/i
 http://58.146.67.244:100/
 http://58.182.146.104:8082/sda1/AV.lnk
 http://58.182.146.104:8082/sda1/AV.scr
@@ -41694,7 +41619,6 @@ http://59.60.78.15:52740/i
 http://59.60.85.181:52740/bin.sh
 http://59.60.85.181:52740/i
 http://59.7.114.186:25051/.i
-http://59.7.114.186:25051/i
 http://59.7.131.145:23251/.i
 http://59.7.131.145:23251/i
 http://59.88.0.216:36885/i
@@ -42741,7 +42665,7 @@ http://61.2.152.43:56360/bin.sh']
 http://61.2.159.201:50581/bin.sh
 http://61.2.159.201:50581/i
 http://61.2.246.248:51603/bin.sh
-http://61.2.45.172:2000/sshd
+http://61.2.45.141:2000/sshd
 http://61.2.45.191:2001/sshd
 http://61.216.49.125:44113/i
 http://61.216.49.131:38369/bin.sh
@@ -43677,21 +43601,6 @@ http://62.171.157.4/ambatukam/rizzx.x86
 http://62.171.157.4/ambatukam/rizzx.x86_64
 http://62.171.158.126:8081/RuntimeBroker.exe']
 http://62.171.158.126:8081/rclone.conf']
-http://62.171.159.81//arc
-http://62.171.159.81//arm
-http://62.171.159.81//arm5
-http://62.171.159.81//arm6
-http://62.171.159.81//arm7
-http://62.171.159.81//i686
-http://62.171.159.81//m68k
-http://62.171.159.81//mips
-http://62.171.159.81//mips64
-http://62.171.159.81//mpsl
-http://62.171.159.81//ppc
-http://62.171.159.81//sh4
-http://62.171.159.81//sparc
-http://62.171.159.81//x86
-http://62.171.159.81//x86_64
 http://62.181.55.38:8000/td2
 http://62.197.62.195:60000/sshd
 http://62.197.62.195:60001/sshd
@@ -43990,11 +43899,7 @@ http://62.94.13.193:56217/.i
 http://62.99.58.93:1024/bin.sh
 http://62.99.58.93:1024/i
 http://63.176.144.33/sliver-client_linux
-http://63.47.210.150/AV.lnk
 http://63.47.210.150/AV.scr
-http://63.47.210.150/Photo.lnk
-http://63.47.210.150/Photo.scr
-http://63.47.210.150/Video.lnk
 http://63.47.210.150/Video.scr
 http://63.47.210.150/info.zip
 http://64.118.132.72/d.sh
@@ -44325,7 +44230,6 @@ http://69.178.6.212:59251/bin.sh
 http://69.178.6.212:59251/i
 http://69.46.43.35/pty10
 http://69.46.43.35/pty2
-http://69.46.43.35/pty3
 http://69.46.43.35/pty4
 http://69.48.143.20/
 http://69.75.168.226:8007//sshd
@@ -44687,6 +44591,7 @@ http://77.209.70.77:49073/i
 http://77.209.73.41:54726/bin.sh
 http://77.209.73.41:54726/i
 http://77.211.28.150/AV.scr
+http://77.211.28.150/Photo.lnk
 http://77.211.28.150/Photo.scr
 http://77.211.28.150/info.zip
 http://77.221.136.59/bins/bioset0
@@ -44801,6 +44706,7 @@ http://77.39.19.233:52424/i
 http://77.42.21.37/systemcl/arm']
 http://77.45.186.63:42009/i
 http://77.46.170.18:53326/.i
+http://77.46.170.18:53326/Mozi.m
 http://77.46.170.18:53326/i
 http://77.50.222.238:51680/.i
 http://77.50.222.238:51680/i
@@ -44867,7 +44773,6 @@ http://78.111.82.210:8089/
 http://78.140.248.242:4022/.i
 http://78.140.248.242:4022/i
 http://78.140.32.219:12617/
-http://78.140.32.219:12617/.i
 http://78.140.32.219:12617/i
 http://78.153.140.124/b1n/arm7']
 http://78.153.140.16/a.sh
@@ -44924,6 +44829,8 @@ http://78.29.14.127:29050/
 http://78.29.14.127:29050/.i
 http://78.29.14.127:29050/Mozi.m
 http://78.29.14.127:29050/i
+http://78.29.19.18:3200/Mozi.m
+http://78.29.19.18:3200/i
 http://78.29.39.213:37794/bin.sh
 http://78.29.39.213:37794/i
 http://78.29.39.213:48027/bin.sh
@@ -45041,6 +44948,7 @@ http://80.147.155.189/AV.scr
 http://80.147.155.189/Photo.lnk
 http://80.147.155.189/Video.lnk
 http://80.147.155.189/Video.scr
+http://80.147.3.138:88/
 http://80.15.136.125:22830/.i
 http://80.211.134.99/CanicatTennis_V_1_4/AppData/Settings/Usr/Usr_320/info.zip']
 http://80.24.87.77:8056//sshd
@@ -45166,7 +45074,6 @@ http://81.16.249.96:46703/Mozi.m
 http://81.16.249.96:46703/i
 http://81.16.250.173:2957/
 http://81.16.250.173:2957/i
-http://81.16.251.131:36612/.i
 http://81.16.251.131:36612/i
 http://81.163.111.127:8000/81ip.exe
 http://81.163.111.127:8000/eww.exe
@@ -45189,6 +45096,7 @@ http://81.228.61.65:44334/bin.sh
 http://81.228.61.65:44334/i
 http://81.229.60.159:58639/bin.sh
 http://81.229.60.159:58639/i
+http://81.23.17.166/sshd
 http://81.230.148.181:40652/i
 http://81.230.148.181:40958/bin.sh
 http://81.230.148.181:40958/i
@@ -45598,6 +45506,8 @@ http://83.217.209.80/debug/loader.sh
 http://83.217.209.80/loader.sh
 http://83.217.209.80/payload.sh
 http://83.217.209.98/logfile.pdf
+http://83.218.189.21:5195/
+http://83.218.189.21:5195/Mozi.m
 http://83.218.189.21:5195/i
 http://83.218.189.41:60645/.i
 http://83.219.1.198:33773/bin.sh
@@ -46496,7 +46406,6 @@ http://87.121.84.49/00101010101001/morte.arm']
 http://87.121.84.49/00101010101001/morte.arm6']
 http://87.121.84.50/hiddenbin/boatnet.mips']
 http://87.121.84.52/router.faith-rep.sh']
-http://87.121.84.55/bins/mipsel
 http://87.121.84.56/nuts/poop
 http://87.121.84.57/nuts/poop
 http://87.121.84.75/aws']
@@ -46536,7 +46445,6 @@ http://87.121.84.80/x86
 http://87.121.84.83/zte']
 http://87.138.104.129:4000/
 http://87.197.160.196:6324/.i
-http://87.197.160.196:6324/Mozi.m
 http://87.197.160.196:6324/i
 http://87.20.235.24/mqml']
 http://87.227.116.162:34043/bin.sh
@@ -46565,12 +46473,12 @@ http://87.97.161.106:8086/sshd
 http://877zsa.earoauth.life/99c7fa93-4d32-47c2-84f9-163f7755f5e3/check.rock
 http://87phs.invert-manner.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google/
 http://88.116.62.226:52714/.i
+http://88.116.62.226:52714/Mozi.m
 http://88.116.62.226:52714/i
 http://88.119.151.142:10462/.i
 http://88.119.151.142:10462/Mozi.m
 http://88.119.151.142:10462/i
 http://88.119.193.17:10462/.i
-http://88.119.193.17:10462/Mozi.m
 http://88.119.193.17:10462/i
 http://88.119.95.176:40517/.i
 http://88.119.95.176:40517/Mozi.m
@@ -46639,6 +46547,9 @@ http://88.24.52.121:10062/sshd
 http://88.24.52.121:10072/sshd
 http://88.24.76.250:10072/sshd']
 http://88.247.222.82:59391/Mozi.a']
+http://88.248.194.163:4437/.i
+http://88.248.194.163:4437/Mozi.m
+http://88.248.194.163:4437/i
 http://88.249.70.76:56125/bin.sh
 http://88.249.70.76:56125/i
 http://88.249.70.76:58474/bin.sh
@@ -46840,6 +46751,7 @@ http://89.144.31.35/z6I
 http://89.144.31.35/z6I']
 http://89.144.31.35/zuH
 http://89.144.31.35/zvl
+http://89.184.185.198:4443/tftp
 http://89.185.84.13:19347/1/axhtymsbrkiems935.css
 http://89.185.84.13:19347/1/brkiemshaeetwja612.bin
 http://89.187.28.175/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.spc']
@@ -46927,6 +46839,7 @@ http://89.23.107.148/Documents/Disney-Plus-Brief.lnk']
 http://89.231.14.137:2282/
 http://89.231.14.137:2282/.i
 http://89.231.14.137:2282/Mozi.m
+http://89.231.14.137:2282/i
 http://89.32.41.16/bins/arc
 http://89.32.41.16/bins/arm4
 http://89.32.41.16/bins/arm5
@@ -47426,7 +47339,6 @@ http://92.150.82.148:200/info.zip
 http://92.203.169.39/sshd
 http://92.203.169.41/sshd
 http://92.241.77.214:20631/.i
-http://92.241.77.214:20631/Mozi.m
 http://92.241.77.214:20631/i
 http://92.247.4.226:37768/i
 http://92.249.61.91/Client-built.exe
@@ -47540,10 +47452,8 @@ http://93.190.19.101:37523/bin.sh
 http://93.190.19.101:37523/i
 http://93.190.19.101:50789/bin.sh
 http://93.190.19.101:50789/i
-http://93.190.58.102:47419/.i
 http://93.190.58.102:47419/i
 http://93.208.166.69:41687/i
-http://93.21.252.43:47572/.i
 http://93.21.252.43:47572/i
 http://93.215.23.87/info.zip
 http://93.39.215.44:9111/sshd
@@ -47833,6 +47743,7 @@ http://94.183.49.100:26643/i
 http://94.189.222.143:13639/.i
 http://94.189.222.143:13639/mozi.a
 http://94.189.222.143:13639/mozi.m
+http://94.19.130.58:3640/i
 http://94.203.254.14/AV.lnk
 http://94.203.254.14/AV.scr
 http://94.203.254.14/Photo.lnk
@@ -47993,11 +47904,8 @@ http://95.159.32.180:54863/i
 http://95.165.187.102:46295/i
 http://95.165.187.102:56551/bin.sh
 http://95.165.187.102:56551/i
-http://95.170.116.28:21086/.i
 http://95.170.116.28:21086/Mozi.m
 http://95.170.116.28:21086/i
-http://95.170.119.100:1863/.i
-http://95.170.119.100:1863/i
 http://95.181.173.3/mips']
 http://95.182.114.150/FBI.arm
 http://95.182.114.150/FBI.arm5
@@ -48172,7 +48080,6 @@ http://9z.wtf/n2/x86
 http://9z.wtf/n2/x86_64
 http://aaiiehiehueudhuh.su/']
 http://acc.jiangsujiaxue.com:8081/public/update/bmw_v1.7.exe
-http://accesstelematics.com/oovn/oovn.js
 http://accntmynetfiixsav.com/bins/nwfaiehg4ewijfgriehgirehaughrarg.sh4']
 http://ads-storage.biz/update
 http://adsdadadad.ddnsgeek.com/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.i686']
@@ -48408,7 +48315,6 @@ http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.arm
 http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.i686
 http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.mips
 http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.spc
-http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.x86
 http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.x86_64
 http://bghxlwkc.xyz:808/linux_mips64_softfloat']
 http://bghxlwkc.xyz:808/linux_mipsel']
@@ -48527,7 +48433,6 @@ http://cdn-10049480.file.myqcloud.com/qcoin/qcoin130.exe
 http://cdn-10049480.file.myqcloud.com/qcoin/qcoin139.exe
 http://cdn-10049480.file.myqcloud.com/qcoin/qcoin140.exe
 http://cdn-10049480.file.myqcloud.com/qcoin/qcoin141.exe
-http://cdn-10049480.file.myqcloud.com/qcoin/qcoin142.exe
 http://cdn-assets.xyz/arm
 http://cdn-assets.xyz/arm5
 http://cdn-assets.xyz/arm6
@@ -48757,7 +48662,6 @@ http://data-core-logic-resource-center.wiki/cf727ace-534d-4177-b75f-87e71670630d
 http://data-core-logic-resource-center.wiki/fd3443c0-383f-46c3-b11e-1d173e331816/google.ct
 http://data.yhydl.com:20006/file/XWGL/XW_XXGL.exe
 http://data.yhydl.com:20006/file/XW_Setup.exe
-http://data.yhydl.com:20006/file/YHY_Setup.exe
 http://datapulse.run.place/hiddenbin/Space.arm5']
 http://datapulse.wiki/1fb067ff-f42d-4f2b-ba15-c01743d4725e/google.ct
 http://datapulse.wiki/40ff8fc1-a68b-4a64-9dfd-93335bf12dc6/google.ct
@@ -48903,21 +48807,12 @@ http://devbits.6toralix.lat/kl0n-green-excel-yy3775-get65/gett3.verification
 http://devbits.netinfrahubsys.pics/c2cb43a1-3db9-486a-a707-ee88bcdb4813/google.ocx
 http://devbits.netlogicstack.co/ggl.ocx
 http://devbox.smartcloudstorageset.lat/klpq2ia-77q9xy8b-kiew9b-vkd6-8aiuqtv/access-id9245.filter
-http://devilnet.xyz/001010101010010110101011101010101101010111010101/Labello.arc
-http://devilnet.xyz/001010101010010110101011101010101101010111010101/Labello.arm
-http://devilnet.xyz/001010101010010110101011101010101101010111010101/Labello.arm5
-http://devilnet.xyz/001010101010010110101011101010101101010111010101/Labello.arm6
-http://devilnet.xyz/001010101010010110101011101010101101010111010101/Labello.arm7
 http://devilnet.xyz/001010101010010110101011101010101101010111010101/Labello.i686
 http://devilnet.xyz/001010101010010110101011101010101101010111010101/Labello.m68k
 http://devilnet.xyz/001010101010010110101011101010101101010111010101/Labello.mips
-http://devilnet.xyz/001010101010010110101011101010101101010111010101/Labello.mpsl
 http://devilnet.xyz/001010101010010110101011101010101101010111010101/Labello.mpsl']
-http://devilnet.xyz/001010101010010110101011101010101101010111010101/Labello.ppc
-http://devilnet.xyz/001010101010010110101011101010101101010111010101/Labello.sh4
 http://devilnet.xyz/001010101010010110101011101010101101010111010101/Labello.spc
 http://devilnet.xyz/001010101010010110101011101010101101010111010101/Labello.x86
-http://devilnet.xyz/001010101010010110101011101010101101010111010101/Labello.x86_64
 http://devilnet.xyz/001010101010010110101011101010101101010111010101/debug
 http://devilnet.xyz/1.sh
 http://dhitrackparcei.help/bins/nwfaiehg4ewijfgriehgirehaughrarg.arc']
@@ -49016,7 +48911,6 @@ http://down.ftp21.cc/445.jpg
 http://down.ftp21.cc/TQ.jpg
 http://down.pcclear.com/active/PCclear_Eng_mini.exe
 http://down.qqfarmer.com.cn/QQHelper_1540.exe
-http://down10d.zol.com.cn/zoldownload/
 http://down10d.zol.com.cn/zoldownload/foobar2000_v1.6.7_beta_17@1704_129472.exe
 http://download.caihong.com/gamewd/yhdl.exe
 http://download.doumaibiji.cn/doumai/fmt/v1.0.1.11/fmt_01.exe
@@ -49050,18 +48944,6 @@ http://dynmarkos6.fira6dox.lat/57oe-aget-358671-chess-345msdn01/take.dll
 http://eagle1997.executorstresser.ru/executorloveyou/debug']
 http://easyhostweb.com/1.bat
 http://echoblend.red-sticker.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google/
-http://echorp.shop/bins/arm
-http://echorp.shop/bins/arm5
-http://echorp.shop/bins/arm6
-http://echorp.shop/bins/arm7
-http://echorp.shop/bins/m68k
-http://echorp.shop/bins/mips
-http://echorp.shop/bins/mipsel
-http://echorp.shop/bins/ppc
-http://echorp.shop/bins/sh4
-http://echorp.shop/bins/spc
-http://echorp.shop/bins/x86
-http://echorp.shop/bins/x86_64
 http://eclipseservices.xyz/g.sh']
 http://electri.billregulator.com/aTu.lim
 http://elegant-shtern.196-251-72-149.plesk.page/bins/nwfaiehg4ewijfgriehgirehaughrarg.m68k']
@@ -49090,7 +48972,6 @@ http://etokrol.lol/files/FAvFf4V3.exe
 http://etsputs.milanocapitals.shop/bins/arm']
 http://euftrhnx.computationalgrid.com/ba1019ee-a048-4bd5-a90d-1fc5da2b8696
 http://euob.youstarsbuilding.com/sxp/i/522f8dbab717f669a06afa9122107971.js
-http://eventourarte.cl/blo/me.zip
 http://events.api.o365drive-support.com/bins/morte.mpsl']
 http://everycarebd.com/image77490p.png
 http://everycarebd.com/imagecopy0956.png
@@ -49517,7 +49398,6 @@ http://hgelsd.years-very.lat/kl0n-green-excel-yy3775-get65/gett3.verification
 http://hitstation.nl/css/parts_service/ly944myw/
 http://hjdssxth.swimsuit-unable.lat/shednndce-looge-hronospp-up83sds35-onboard/wverif.camp
 http://hnjgdl.geps.glodon.com:8888/Services/Identification/Server/GtpToolsDownLoadHandler.ashx?filename=GTP_6_BrowserPlugin_Setup.exe
-http://hobobot.net/%EB%A7%AC%EC%9B%A8%EC%96%B4.hta
 http://holiganbet10185.lease/main_m68k']
 http://home-client-online-stetament.webredirect.org:8008/access/JWrapper-Remote%20Access-00075795303-archive.p2.l2
 http://home-client-online-stetament.webredirect.org:8008/access/JWrapper-Remote%20Access_os_jwwin-00075795303-archive.p2.l2
@@ -49743,7 +49623,6 @@ http://kernalstress.st/mips
 http://kernalstress.st/mipsel
 http://kernalstress.st/x86_64
 http://kerryglow.info/
-http://kimyen.net/upload/VLTKTanthuTN.exe
 http://klhadsd.adi8hesplayer.pics/99c7fa93-4d32-47c2-84f9-163f7755f5e3/check.rock
 http://knuvqydu.xyz:808/linux_mipsel_softfloat']
 http://konsor.ru/keygen.exe
@@ -50361,7 +50240,6 @@ http://ns.barnamenevis.shop/bins/x86_64
 http://ntfxrenewsupport.com/bins/nwfaiehg4ewijfgriehgirehaughrarg.arc']
 http://ny.lshdw.cc/FB/32.exe
 http://ny.lshdw.cc/FB/sm.exe
-http://ny.lshdw.cc/SigmaPlus/4.exe
 http://ob.youstarsbuilding.com/sxp/i/522f8dbab717f669a06afa9122107971.js
 http://objective-roentgen.121-127-34-164.plesk.page/armv4l
 http://objective-roentgen.121-127-34-164.plesk.page/armv5l
@@ -51082,6 +50960,7 @@ http://unext.am.in/rsyslogd']
 http://unhoq4.arch-vivarium.lat/kl0n-green-excel-yy3775-get65/gett3.verification
 http://union.macoms.la/jquery.min-4.0.2.js
 http://unl25bit.getverif.in.net/verification.google/
+http://upaicdn.xinmei365.com/newwfs/support/CustomFont.apk
 http://upchemicals.co.in/test/cgi-bin/ADONIS/ALL_ADONIS
 http://upchemicals.co.in/test/cgi-bin/ADONIS/Pure_Adonis
 http://upchemicals.co.in/test/cgi-bin/JND/JND_ALL
@@ -51494,7 +51373,7 @@ http://www.ardguisser.com/IUIA-qgkdtq2rfbXD7Z_LjIAENgVq-4CY/
 http://www.c3471.top/um09/']
 http://www.caryurinating.click/utdoi.exe']
 http://www.chenwangqiao.com/wordpress/3waa9-ke38h-15/
-http://www.chenwangqiao.com/wordpress/wp-lm9-32/
+http://www.chenwangqiao.com/wordpress/FILE/
 http://www.cnnetwork.uk/bins/morte.sh4']
 http://www.coolcams.duckdns.org/bins/arm
 http://www.coolcams.duckdns.org/bins/arm5
@@ -51765,9 +51644,6 @@ https://0udhnpx.po8vaxen.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d
 https://0v6nu.tatneft.in.net/verification.google
 https://0xr5c.stonemuse.in.net/verification.google
 https://0zfu07h8.audioattenuatorschematic.digital/?ublib=2897a368-da61-44b7-a104-12985a052ff6
-https://101.127.143.2:8443/sda1/AV.lnk
-https://101.127.143.2:8443/sda1/AV.scr
-https://101.127.143.2:8443/sda1/Photo.lnk
 https://102policeonlainedtp.vercel.app/?download=1
 https://103.106.229.247/bins/bioset0
 https://103.106.229.247/bins/cfg80211d
@@ -51842,9 +51718,7 @@ https://10987.7zorelin.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12
 https://10gic-mark.retellin8tolle.bet/software-distribution-dxnp2c7/meta-verify.index
 https://10ya0-dock.syke8liron.in.net/cdk-msdn-3457325-null/load-file0dsdf567.chk
 https://11-k44.bryzand.in.net/verification.google
-https://111.228.55.96/02.08.2022.exe
 https://112.220.72.117/
-https://114.242.100.72/info.zip
 https://115.190.140.220:1443/02.08.2022.exe
 https://116.118.47.149/
 https://117.72.181.104/02.08.2022.exe
@@ -52605,6 +52479,7 @@ https://45.83.31.75/bin/support.client.exe
 https://45.83.31.82/Bin/ScreenConnect.ClientSetup.exe
 https://45.83.31.93/Bin/ScreenConnect.ClientSetup.exe
 https://45.88.186.163/bin//support.client.exe?i=&e=Support&y=Guest&r=
+https://45.88.186.163/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://45.88.186.42/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest']
 https://45.88.186.47/bin/support.client.exe
 https://45.88.186.95/Bin/ScreenConnect.ClientSetup.exe
@@ -53068,6 +52943,7 @@ https://91.92.243.176/bin/support.client.exe
 https://91.92.243.181/Bin/ScreenConnect.ClientSetup.exe
 https://91.92.243.181/bin/support.client.exe
 https://92vm44.qu2ntitative-tenero.pics/99c7fa93-4d32-47c2-84f9-163f7755f5e3/check.rock
+https://93.215.23.87/info.zip
 https://93f5qz.khudrukmumb1es.in.net/cdk-msdn-3457325-null/load-file0dsdf567.chk
 https://93f5qz.khudrukmumb1es.in.net/cdk-msdn-3457325-null/load-file0dsdf567.chk']
 https://94.130.229.174/
@@ -53298,6 +53174,7 @@ https://afrqcy.concent-shelm.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80
 https://aftwizk.starforge.in.net/verification.google
 https://ag3nt1-lab.besthire.in.net/verification.google
 https://age-logic.lookyouthful.in.net/05fe317c-0981-4de2-bc8a-930d369db441/verification.google
+https://agence-immobiliere-lyon.com
 https://agent-proxy.catalyticprocess.in.net/verification.google
 https://agentairw.fina1vrub.surf/9fd51fb7-b3ad-4c8f-bf05-b5423d14e06c/user_6747.google
 https://agentdel.greecesco7es.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google
@@ -53357,7 +53234,6 @@ https://alignsort.xynotrax.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df
 https://alineeleuterio.com.br/Receipt_11_26_2025.msi
 https://alkon.rs/optimized_MSINN.png
 https://all-stars.velante.in.net/verification.google
-https://allcheat.netlify.app/bvExecuter.exe
 https://allcheat.netlify.app/hpExecuter.exe
 https://allcheat.netlify.app/nExecuter.exe
 https://allcheat.netlify.app/pmExecuter.exe
@@ -55719,7 +55595,6 @@ https://cliffbala.hearkenw2tman.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3
 https://cliffbird.sparrowinrock.in.net/service/verification.google
 https://cliffcrims.histor5corching.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google
 https://cliffdawn.eight-education.lat/kl0n-green-excel-yy3775-get65/gett3.verification
-https://climatecontrolunit.makeoverwinter.in.net/service/verification.google
 https://climole.stoppit.in.net/verification.google
 https://cling-05.clingway.in.net/verification.google
 https://cling-way.clingway.in.net/verification.google
@@ -56791,9 +56666,7 @@ https://desk-folder6.syl5peran.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d
 https://desk-folder6.sylom7er.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google
 https://desk-sensor-tabel-tunnel-key.wiki/f01d8ba9-cd08-4663-90ce-c6db2fb38768/google.ct
 https://desktop-version.com/app
-https://deusxeno.ws/Bootsta%D1%80%D1%80erUl.zip
 https://deusxeno.ws/Bootstap%D1%80%D0%B5rUl.zip
-https://deusxeno.ws/Bootstappe%D0%B3UI.zip
 https://dev-moral.askloop.in.net/verification.google
 https://dev-node1.foersteron.work/verify-token-7a1f/runtime.validator
 https://dev-shel.sorix1ar.lat/kl0n-green-excel-yy3775-get65/gett3.verification
@@ -57644,7 +57517,6 @@ https://dusttide.ra5ximor.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5
 https://dv-77k.moxitron.in.net/verification.google
 https://dweixin.cn/gttu/Overview/sw94b26/
 https://dweixin.cn/gttu/invoice/ujn3me8cye/
-https://dweixin.cn/gttu/xOfSL/
 https://dwkch.ru/meshagents?id=3&meshid=g3qQmGuuQeuKcWATXQJ2kFRNAVgYUYMIbGileCXMMUiSABwlmUBigllxjAOCx30b&installflags=3
 https://dxt405.zenithax.in.net/verification.google
 https://dydqa.windbay.in.net/verification.google
@@ -59252,7 +59124,6 @@ https://frostcrypt.org/putty2.txt
 https://frosthostbase.tundraflowunit.garden/cdk-msdn-3457325-null/load-file0dsdf567.chk
 https://frostmac.c1vicsun.in.net/verification.google
 https://frostmac.c1vicsun.in.net/verification.google/
-https://frostprotectionsys.makeoverwinter.in.net/service/verification.google
 https://froststream.coldinriver.in.net/service/verification.google
 https://frozenlayout.currvers.in.net/verification.google
 https://frozi.cc/Stb/Retev.php?bl=3HbukcRuJG1pozF7WsPRE002.txt
@@ -65818,7 +65689,6 @@ https://lunetes.funnyhelp.com/LunX.zip']
 https://lungx.hollower.sbs/LunX.zip
 https://lunhx.hollower.sbs/LunX.zip
 https://lunhx.onters.sbs/LunX.zip
-https://lunme.onters.sbs/LunX.zip
 https://lunopen.hisslytori.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google
 https://lunqv.hollower.sbs/LunX.zip
 https://lunts.hollower.sbs/LunX.zip
@@ -67436,7 +67306,6 @@ https://null7taskhub.niva2ron.bet/software-distribution-dxnp2c7/meta-verify.inde
 https://null8siteview.mori9port.surf/software-distribution-dxnp2c7/meta-verify.index
 https://null9siteview.dismemb7harlot.bet/software-distribution-dxnp2c7/meta-verify.index
 https://null9siteview.sora5link.surf/software-distribution-dxnp2c7/meta-verify.index
-https://nusatoyota.co.id/teev/teev.js
 https://nv7cx.factpre5ent.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google
 https://nvgsw.kazan-saddle.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google
 https://nvxlifpf.heaton-stolid.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google
@@ -69474,7 +69343,6 @@ https://raw.githubusercontent.com/Alaa-Awad0/cracked-enhancer-for-medium-extensi
 https://raw.githubusercontent.com/Alaa-Awad0/cracked-enhancer-for-medium-extension/refs/heads/master/circumcone/cracked-enhancer-for-medium-extension.zip
 https://raw.githubusercontent.com/Alan06121/HeartLib-Google-Colab/refs/heads/main/seme/Colab-Google-Heart-Lib-v1.9-beta.1.zip
 https://raw.githubusercontent.com/Alan06121/alan06121.github.io/refs/heads/main/infortunately/alan_github_io_v1.6.zip
-https://raw.githubusercontent.com/AlishaZara/api/refs/heads/master/rh_s.txt
 https://raw.githubusercontent.com/Almondleaveswillowlorenzodressing280/opguia/main/opguia/pages/connection/Software-v1.2-alpha.2.zip
 https://raw.githubusercontent.com/Alpaymh/ExitLag/refs/heads/master/AracServis/Exit_Lag_iliococcygeal.zip
 https://raw.githubusercontent.com/Alpaymh/Python-Sorting-Algorithms-Visualizer/refs/heads/master/dist/Python-Sorting-Algorithms-Visualizer/PyQt5/Qt5/plugins/generic/Sorting_Visualizer_Python_Algorithms_2.1.zip
@@ -69779,6 +69647,7 @@ https://raw.githubusercontent.com/Igmp24184/ROBLOX-MACRO-V3.0.0/refs/heads/main/
 https://raw.githubusercontent.com/ImkozZ/Microverse/refs/heads/main/scene/characters/Software-v1.3.zip
 https://raw.githubusercontent.com/Impar0/tryyy/main/bat.bat']
 https://raw.githubusercontent.com/Inevitable-Code101/game-hub/refs/heads/main/game-site-fire/src/components/UpdateInfo/hub_game_chloropalladates.zip
+https://raw.githubusercontent.com/Intergate0/none/main/main.exe
 https://raw.githubusercontent.com/InvisibleBunny/Records/main/Bunny-Mini/mini.shell.php
 https://raw.githubusercontent.com/Isaac1993-io/Galaxcity-Project/refs/heads/main/submembranaceous/Project_Galaxcity_Chlorococcales.zip
 https://raw.githubusercontent.com/Isaac1993-io/JAVA-journey/refs/heads/main/Oracle_JDK-24/journey_JAV_2.7.zip
@@ -70030,7 +69899,6 @@ https://raw.githubusercontent.com/Pranavbarskar/pluralsight-aws-data-pipelines-o
 https://raw.githubusercontent.com/Pranavchaure/Live-Chat-App/refs/heads/main/backend/node_modules/undefsafe/lib/App-Chat-Live-2.7.zip
 https://raw.githubusercontent.com/Pranavchaure/Pong-Remake/refs/heads/main/stroup/Remake_Pong_v1.2-alpha.3.zip
 https://raw.githubusercontent.com/Pranavchaure/Travel-Website/refs/heads/main/images/Website-Travel-2.2.zip
-https://raw.githubusercontent.com/Prowindows365/Hailhydra/refs/heads/main/hailhydra.exe
 https://raw.githubusercontent.com/QWanFLC/qwanflc.github.io/refs/heads/main/karyological/github-qwanflc-io-1.9.zip
 https://raw.githubusercontent.com/QWanFLC/vidconcept-sum/refs/heads/main/vidconcept_sum/sum_vidconcept_unmotivatedly.zip
 https://raw.githubusercontent.com/R00tS3c/DDOS-RootSec/refs/heads/master/DDOS%20Scripts/L4/UDP/10gbpsUDP.py
@@ -70599,6 +70467,7 @@ https://raw.githubusercontent.com/iamsysadmin/SetTeamsBG/main/Set-Teams-Backgrou
 https://raw.githubusercontent.com/ian3P2-PCI/Areana-Breakout-Wildwave-Cheat/refs/heads/main/peachify/Areana-Breakout-Cheat-Wildwave-3.3-beta.3.zip
 https://raw.githubusercontent.com/iciamyplant/ctf/master/plantrojan.exe
 https://raw.githubusercontent.com/igoralways/cracked-enhancer-for-google-meet-extension/refs/heads/main/josh/cracked_for_extension_meet_google_enhancer_v3.8.zip
+https://raw.githubusercontent.com/ilganrat342/dertyom/refs/heads/main/setup.exe
 https://raw.githubusercontent.com/ilganrat342/dgasgxc/refs/heads/main/setup.exe
 https://raw.githubusercontent.com/illkat4889/Port-Scanner/refs/heads/main/locale/Scanner_Port_pythonid.zip
 https://raw.githubusercontent.com/illkat4889/illkat4889.github.io/refs/heads/main/outgoingness/io_github_illkat_3.9.zip
@@ -70950,6 +70819,8 @@ https://raw.githubusercontent.com/rohit7872/agent-captcha/refs/heads/master/app/
 https://raw.githubusercontent.com/roseannspastic496/pyspark-etl-automation/refs/heads/main/pridelessly/etl-automation-pyspark-3.4-alpha.1.zip
 https://raw.githubusercontent.com/roter515stuhl/Aavegotchi-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/refs/heads/main/Aavegotchi-AutoPlay/Aavegotchi-App/Properties/Cheat_Game_Auto_Bot_Hack_Aavegotchi_Crypto_Api_Clicker_Farm_2.4.zip
 https://raw.githubusercontent.com/rouki555/dcm/refs/heads/main/Document.zip
+https://raw.githubusercontent.com/rouki555/lnk/refs/heads/main/t.png
+https://raw.githubusercontent.com/rouki555/lnk/refs/heads/main/u.xls
 https://raw.githubusercontent.com/rouki555/lnk/refs/heads/main/ud.bat
 https://raw.githubusercontent.com/rouki555/lnk/refs/heads/main/y.png
 https://raw.githubusercontent.com/roukistl/ud/refs/heads/main/ud.bat
@@ -71132,6 +71003,7 @@ https://raw.githubusercontent.com/walletmfi/c64stream/refs/heads/main/tools/stre
 https://raw.githubusercontent.com/wangyanjun7954/CyberDefenseX_demo/refs/heads/main/Agent/demo-Defense-Cyber-1.3.zip
 https://raw.githubusercontent.com/wanzy0560/nvme2k/refs/heads/main/carabao/nvme_k_3.9-beta.5.zip
 https://raw.githubusercontent.com/washywashy14/7zip-bin/master/win/Uemlxaw.zip
+https://raw.githubusercontent.com/washywashy14/7zip-bin/master/win/er5thygfd.zip
 https://raw.githubusercontent.com/weedgirl08/Roblox-Scripts/refs/heads/main/terrifyingly/Roblox_Scripts_2.0.zip
 https://raw.githubusercontent.com/whoafg/problemonfmech/refs/heads/main/client.exe
 https://raw.githubusercontent.com/whois-black/qew123/main/XClient.exe
@@ -75261,7 +75133,6 @@ https://short-word4.crazy-talk.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d
 https://short-word4.tix9larem.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google
 https://shortway2.wi8sorim.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google
 https://show1-data.exhib1torknot.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google
-https://shqdown.ggzuhao.com/GGAssistant/update/2.3.11.29/tool/WinRing0x64.sys?skq=1701042218
 https://shre-v1.dachshreinsur.in.net/verification.google
 https://shrew-svc.choreograpshrew.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google
 https://shrink-io.eucharistshrink.in.net/05fe317c-0981-4de2-bc8a-930d369db441/verification.google
@@ -79396,6 +79267,8 @@ https://wind02.windhaven.in.net/verification.google
 https://windglade.clearatwind.in.net/service/verification.google
 https://windharbor.1zarelin.lat/sh1ne-logs-neppy-upd8335-www3/get123c.camp
 https://windomstatetheater.com/mits.zip
+https://windomstatetheater.com/osxs.zip
+https://windomstatetheater.com/rars.zip
 https://windows-62534.click']
 https://windows-6t0-pso-3632165.click']
 https://windows-87837.click']
@@ -79587,7 +79460,6 @@ https://www.astenterprises.com.pk/ef/ef.vbs
 https://www.automobile-bk.de/wp-admin/css/colors/sunrise/XundFAXgnsp84.bin
 https://www.backupallfresh2030.com/atom.xml
 https://www.backupallfresh2030.com/nimper.pdf
-https://www.benshamcentre.co.uk/continue/45.ps1
 https://www.blackhattoolz.com/licensing/deployment/Yellow%20Pages%20Scraper.exe
 https://www.blackhattoolz.com/licensing/updates/AddMeFast%20Bot.exe
 https://www.blackhattoolz.com/licensing/updates/Tinder%20Bot.exe
@@ -79657,7 +79529,6 @@ https://www.kotojuki.com/upload/upl/aIh2Q8_tdPWA9w6hskn5/539869.pdf
 https://www.maxpower01.com/upload/src/file3025.mp3
 https://www.mediafire.com/file/444c7egfdwr678p/Middagenes78.msi/file
 https://www.mediafire.com/file/6ind14y7lapujvd/Aurora.rar/file
-https://www.mediafire.com/file/7awd5u10ypifz8n/Request_for_Quotation_15100053_QSOLAR.lzh/file
 https://www.mediafire.com/file/bm0cj6jfpki80yd/Xeno.zip/file
 https://www.mediafire.com/file/jvbcb1k8d7v0ih4/hsGEfru137.bin/file
 https://www.mediafire.com/file/sdk8lwyfsc3x0a3/img_235552.png/file
