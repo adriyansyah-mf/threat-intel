@@ -1641,6 +1641,7 @@
 103.87.194.116
 103.89.37.70
 103.90.161.224
+103.90.207.234
 103.95.180.0
 103.99.196.0
 103/hiddenbin/boatnet
@@ -2478,7 +2479,6 @@
 110.37.21.60
 110.37.22.216
 110.37.23.183
-110.37.23.188
 110.37.25.189
 110.37.26.19
 110.37.26.58
@@ -4857,7 +4857,6 @@
 115.63.112.133
 115.63.12.140
 115.63.12.163
-115.63.128.47
 115.63.13.240
 115.63.13.28
 115.63.13.56
@@ -6384,6 +6383,7 @@
 123.129.134.33
 123.129.135.105
 123.129.135.157
+123.129.152.49
 123.129.154.116
 123.129.154.121
 123.129.155.156
@@ -10804,7 +10804,6 @@
 182.116.36.226
 182.116.37.129
 182.116.37.55
-182.116.37.8
 182.116.38.123
 182.116.38.162
 182.116.38.177
@@ -15737,7 +15736,6 @@
 222.219.74.191
 222.219.74.202
 222.219.74.211
-222.219.74.84
 222.219.74.88
 222.220.145.167
 222.220.145.169
@@ -22168,6 +22166,7 @@
 60.212.67.158
 60.213.254.213
 60.214.23.166
+60.214.231.246
 60.214.240.96
 60.214.58.183
 60.214.58.83
@@ -52598,6 +52597,7 @@ http://103.89.37.70:35393/bin.sh
 http://103.89.37.70:53361/bin.sh
 http://103.89.37.70:53361/i
 http://103.90.161.224:8080/iot
+http://103.90.207.234:55903/Mozi.m
 http://103.99.196.0:49309/Mozi.m
 http://104.129.11.86/payloads/Ciabins.sh
 http://104.161.46.87/grace/Outsplen.pfb
@@ -53693,6 +53693,7 @@ http://109.74.204.206/bre
 http://109.87.223.241:39478/.i
 http://109.92.143.90:65469/.i
 http://109.92.143.90:65469/Mozi.m
+http://109.92.143.90:65469/i
 http://109.97.45.66:34071/i
 http://109.97.45.66:34167/i
 http://10cricofficial.com/389242390482/3atoNational.mpsl']
@@ -54102,8 +54103,6 @@ http://110.37.22.216:46217/i
 http://110.37.22.216:55052/i
 http://110.37.23.183:58054/bin.sh
 http://110.37.23.183:58054/i
-http://110.37.23.188:58259/bin.sh
-http://110.37.23.188:58259/i
 http://110.37.25.189:45750/bin.sh
 http://110.37.25.189:45750/i
 http://110.37.26.19:52042/i
@@ -58425,7 +58424,6 @@ http://115.63.12.140:44328/bin.sh
 http://115.63.12.140:44328/i
 http://115.63.12.163:49379/bin.sh
 http://115.63.12.163:49379/i
-http://115.63.128.47:38576/i
 http://115.63.13.240:47783/i
 http://115.63.13.240:59501/bin.sh
 http://115.63.13.240:59501/i
@@ -58608,6 +58606,7 @@ http://115.99.114.27:52342/bin.sh
 http://115.99.114.27:52342/i
 http://115.99.192.255:51244/bin.sh
 http://115.99.192.255:51244/i
+http://116.10.132.105:48435/bin.sh
 http://116.10.132.105:48435/i
 http://116.10.133.107:48435/bin.sh
 http://116.10.133.107:48435/i
@@ -61319,6 +61318,7 @@ http://123.129.135.105:49561/bin.sh
 http://123.129.135.105:49561/i
 http://123.129.135.157:58169/bin.sh
 http://123.129.135.157:58169/i
+http://123.129.152.49:42069/i
 http://123.129.154.116:43301/i
 http://123.129.154.121:57273/bin.sh
 http://123.129.154.121:57273/i
@@ -70078,7 +70078,6 @@ http://176.65.139.40/jklx86
 http://176.65.139.40/mips
 http://176.65.139.40/mpsl
 http://176.65.139.40/ppc
-http://176.65.139.40/spc
 http://176.65.139.40/tot
 http://176.65.139.40/wget.sh
 http://176.65.139.40/x86
@@ -71785,7 +71784,6 @@ http://182.116.36.226:37513/i
 http://182.116.37.129:55685/bin.sh
 http://182.116.37.129:55685/i
 http://182.116.37.55:48418/i
-http://182.116.37.8:56003/i
 http://182.116.38.123:33625/bin.sh
 http://182.116.38.123:33625/i
 http://182.116.38.162:48418/i
@@ -77328,7 +77326,6 @@ http://211.204.100.20:1234/iland.dat
 http://211.204.100.20:1234/mport.exe
 http://211.204.100.20:1234/upm2008.exe
 http://211.204.100.20:1234/winsetaccess64.exe
-http://211.204.100.20:1234/writedat.exe
 http://211.219.49.173:4089/Mozi.m
 http://211.219.49.173:4089/i
 http://211.229.127.206:53013/i
@@ -80148,6 +80145,7 @@ http://222.141.252.99:45146/i
 http://222.141.26.115:54454/i
 http://222.141.36.152:36990/i
 http://222.141.36.15:51354/bin.sh
+http://222.141.36.15:51354/i
 http://222.141.37.15:36990/i
 http://222.141.38.193:42289/bin.sh
 http://222.141.38.193:42289/i
@@ -80390,7 +80388,6 @@ http://222.219.74.202:50455/bin.sh
 http://222.219.74.202:50455/i
 http://222.219.74.211:52755/bin.sh
 http://222.219.74.211:52755/i
-http://222.219.74.84:50681/i
 http://222.219.74.88:50455/i
 http://222.220.145.167:51630/bin.sh
 http://222.220.145.167:51630/i
@@ -89875,6 +89872,7 @@ http://60.212.67.158:56245/i
 http://60.213.254.213:44045/i']
 http://60.214.23.166:51568/bin.sh
 http://60.214.23.166:51568/i
+http://60.214.231.246:46912/i
 http://60.214.240.96:47132/i']
 http://60.214.58.183:36947/bin.sh
 http://60.214.58.183:36947/i
@@ -91461,6 +91459,7 @@ http://69.46.43.35/pty1
 http://69.46.43.35/pty10
 http://69.46.43.35/pty2
 http://69.46.43.35/pty3
+http://69.46.43.35/pty5
 http://69.48.143.20/
 http://69.75.168.226:8007//sshd
 http://69.75.168.226:8007/sshd
@@ -107147,7 +107146,6 @@ https://joel-eapen.github.io/javascript-amazon-project']
 https://johnsonsvalves.cam/img_215919.png
 https://jointaxel.online/meteor-rejects-addon-1.21.11.jar
 https://jokely.icu/download_invitee.php
-https://jorjsrfgd.lion1bet.com/630ae8f0-d46e-41b7-811b-f78de57357bf
 https://journeylake11.com/2kqYRM0DCrnyJgoS4gVLl_FHJRRdTUhGCbjyuYwpZ6c/DANTE/update
 https://journeylake11.com/curl/fh3ddf2xv6k/hilhg0wgie4tsjo9vi.txt
 https://jppxuuhae.imagederm.com/ee204b50-ce64-4666-a796-d47c131311b7
@@ -107707,7 +107705,6 @@ https://otcgf.christorem.com/dbb18cc6-cebb-446b-8ce8-3f7ba6e70600
 https://otkrytkadnya.ru/apk/otkrytkadnya.apk
 https://otlqkiy.betmiz.bet/549e8e07-9390-4b05-971f-b7184cfb76eb']
 https://outpost.co.ke/opj5cs64q.rar
-https://ovbeoktk.coop-fresh.com/007513b5-b10c-4cf4-a4a0-0043cba73581
 https://ovzdi.jetbet.download/602b43da-625c-426b-a782-272ac0a6c8cc
 https://ownnewstoday.live/MicrosoftVerify.msi
 https://ox3.gasturbo88.top/']
@@ -127759,7 +127756,6 @@ https://txwd.borrender.com/5c1b4fb5-8786-4c71-ba6c-9144253c5d95
 https://tygnu.lokercorp.com/9b90f956-086c-443c-8e77-d45929d961fb
 https://tzpfztp.90bet.org/411450bc-4cb1-4d45-8459-9aa20b46be4e']
 https://tztgw.impactpromotionsclt.com/8971a430-05a1-4072-98c9-7f006923be63
-https://u5dn1e6x.bazisangkaqazgeychidancepoli.com/?ublib=5c5507fb-8db4-45f5-8f9b-49c5ed0e5fbe
 https://u5kxesyk.seerin8w2tch.ru/?=check&&actmn=myptbsvVFjBHkQWF']
 https://u6ggk611.elizabethspizzadenton.com/?ublib=6ee01c55-7726-4a14-8db7-eb4f98c68f8a
 https://u9p8kb56.crvbl.com/?ublib=fa9bfa8f-5f78-4b54-8810-4b0b3e1f13a9
@@ -127848,7 +127844,6 @@ https://vblbs.beer']
 https://vc.tnygbw.com/bin/stego_1lwwbg2gvn.png
 https://vcjh.shimiaodaoflushing.com/d8966925-4173-48a0-b8bb-ebfbde50fb3c
 https://vddrs.inkbossstudios.com/0299e008-d848-4e89-b7ee-f100bc8e5d8c
-https://vdsina.vg/
 https://vector.darkm1nt.ru/v44pb5yd']
 https://vejnqoajk1soxy1x.public.blob.vercel-storage.com/OpenWordDocument.ps1
 https://velvetcanyonline.xyz/nemmet.ocx
@@ -129481,7 +129476,6 @@ jonahinattentive920.github.io
 jonathanmg8401.github.io
 jorgealvarez83.github.io
 jorgega1891.github.io
-jorjsrfgd.lion1bet.com
 jornaltribunadearaxa
 josdream.com
 josephusunpunctual298.github.io
@@ -131786,7 +131780,6 @@ output/constituency/
 output/standard/copilot
 output/verbose/procedures/
 ov1/refs/heads/main/bistipular/
-ovbeoktk.coop-fresh.com
 over-clapmolt.xyz
 overcurious-northwest55.github.io
 overheatingbluemurder
@@ -135648,7 +135641,6 @@ tyylb11h3stwsilnkc4g8qjdp
 tzpfztp.90bet.org
 tztgw.impactpromotionsclt.com
 u3386100.github.io
-u5dn1e6x.bazisangkaqazgeychidancepoli.com
 u5kxesyk.seerin8w2tch.ru
 u6ggk611.elizabethspizzadenton.com
 u87yy3f87b23f8293bfg83bgu94
